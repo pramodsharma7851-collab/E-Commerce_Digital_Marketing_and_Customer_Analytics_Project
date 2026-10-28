@@ -1,0 +1,1801 @@
+customer_id,signup_date,age_group,gender,region
+C0001,2026-07-19,25-34,Prefer not to say,Central
+C0002,2026-11-25,55+,Prefer not to say,Central
+C0003,2026-08-28,18-24,Prefer not to say,West
+C0004,2026-09-10,45-54,Female,North
+C0005,2026-09-02,55+,Prefer not to say,West
+C0006,2026-11-25,55+,Female,West
+C0007,2026-07-27,35-44,Prefer not to say,West
+C0008,2026-07-13,25-34,Female,Central
+C0009,2026-11-02,55+,Prefer not to say,East
+C0010,2026-08-07,55+,Male,Central
+C0011,2026-11-09,45-54,Prefer not to say,North
+C0012,2026-11-17,35-44,Female,Central
+C0013,2026-10-28,45-54,Prefer not to say,South
+C0014,2026-07-14,55+,Female,North
+C0015,2026-10-29,25-34,Male,Central
+C0016,2026-09-11,55+,Prefer not to say,Central
+C0017,2026-09-15,35-44,Male,West
+C0018,2026-09-03,35-44,Male,North
+C0019,2026-07-12,45-54,Male,Central
+C0020,2026-08-13,45-54,Female,West
+C0021,2026-09-26,35-44,Prefer not to say,South
+C0022,2026-09-15,45-54,Male,Central
+C0023,2026-07-28,45-54,Female,East
+C0024,2026-09-02,35-44,Prefer not to say,Central
+C0025,2026-08-23,55+,Prefer not to say,East
+C0026,2026-11-23,18-24,Male,Central
+C0027,2026-11-24,45-54,Male,Central
+C0028,2026-09-19,45-54,Prefer not to say,South
+C0029,2026-11-05,35-44,Male,Central
+C0030,2026-07-19,45-54,Male,Central
+C0031,2026-09-18,25-34,Male,North
+C0032,2026-11-03,25-34,Female,West
+C0033,2026-07-26,45-54,Male,West
+C0034,2026-07-25,25-34,Male,North
+C0035,2026-07-01,45-54,Prefer not to say,Central
+C0036,2026-08-25,45-54,Prefer not to say,South
+C0037,2026-08-08,25-34,Female,Central
+C0038,2026-09-21,35-44,Female,South
+C0039,2026-08-18,45-54,Prefer not to say,Central
+C0040,2026-09-26,25-34,Prefer not to say,East
+C0041,2026-07-12,25-34,Female,North
+C0042,2026-08-05,45-54,Male,South
+C0043,2026-08-10,45-54,Female,East
+C0044,2026-09-23,18-24,Male,Central
+C0045,2026-10-24,25-34,Male,Central
+C0046,2026-07-14,25-34,Female,South
+C0047,2026-09-01,35-44,Male,West
+C0048,2026-07-20,35-44,Male,Central
+C0049,2026-09-23,18-24,Prefer not to say,South
+C0050,2026-09-30,35-44,Male,East
+C0051,2026-10-24,18-24,Female,North
+C0052,2026-07-11,45-54,Female,West
+C0053,2026-09-03,18-24,Female,West
+C0054,2026-09-18,35-44,Male,Central
+C0055,2026-09-09,45-54,Male,North
+C0056,2026-08-10,18-24,Prefer not to say,Central
+C0057,2026-09-02,55+,Female,South
+C0058,2026-10-31,18-24,Male,East
+C0059,2026-07-08,45-54,Prefer not to say,West
+C0060,2026-07-27,25-34,Female,South
+C0061,2026-11-16,25-34,Prefer not to say,North
+C0062,2026-10-02,45-54,Male,East
+C0063,2026-10-16,55+,Prefer not to say,East
+C0064,2026-09-02,18-24,Male,East
+C0065,2026-10-03,35-44,Male,Central
+C0066,2026-09-24,18-24,Female,West
+C0067,2026-08-24,35-44,Male,North
+C0068,2026-11-05,45-54,Male,Central
+C0069,2026-09-18,25-34,Female,South
+C0070,2026-11-02,45-54,Female,Central
+C0071,2026-07-16,35-44,Prefer not to say,West
+C0072,2026-07-10,18-24,Prefer not to say,South
+C0073,2026-09-01,45-54,Prefer not to say,West
+C0074,2026-08-06,45-54,Prefer not to say,North
+C0075,2026-08-17,25-34,Female,North
+C0076,2026-11-22,45-54,Male,East
+C0077,2026-07-06,45-54,Female,West
+C0078,2026-07-10,45-54,Prefer not to say,West
+C0079,2026-07-07,18-24,Male,North
+C0080,2026-08-14,18-24,Female,South
+C0081,2026-11-27,25-34,Male,East
+C0082,2026-07-09,45-54,Male,Central
+C0083,2026-10-30,25-34,Female,West
+C0084,2026-08-16,18-24,Prefer not to say,South
+C0085,2026-08-30,25-34,Prefer not to say,North
+C0086,2026-08-10,55+,Male,Central
+C0087,2026-08-07,18-24,Female,East
+C0088,2026-08-27,18-24,Male,North
+C0089,2026-08-10,25-34,Male,North
+C0090,2026-07-15,55+,Female,South
+C0091,2026-11-08,25-34,Prefer not to say,West
+C0092,2026-10-22,35-44,Female,West
+C0093,2026-07-14,35-44,Male,Central
+C0094,2026-11-21,35-44,Male,Central
+C0095,2026-11-15,45-54,Female,Central
+C0096,2026-08-07,18-24,Male,South
+C0097,2026-08-08,25-34,Prefer not to say,Central
+C0098,2026-07-07,18-24,Female,West
+C0099,2026-11-25,55+,Female,East
+C0100,2026-09-05,45-54,Prefer not to say,West
+C0101,2026-10-02,55+,Prefer not to say,East
+C0102,2026-08-05,35-44,Male,West
+C0103,2026-07-04,55+,Male,North
+C0104,2026-10-18,35-44,Male,South
+C0105,2026-09-04,35-44,Female,East
+C0106,2026-10-27,25-34,Male,Central
+C0107,2026-10-28,35-44,Male,West
+C0108,2026-11-18,55+,Male,North
+C0109,2026-10-22,18-24,Prefer not to say,Central
+C0110,2026-09-08,45-54,Male,West
+C0111,2026-10-28,45-54,Female,West
+C0112,2026-07-23,25-34,Prefer not to say,Central
+C0113,2026-11-06,55+,Male,South
+C0114,2026-11-17,35-44,Female,West
+C0115,2026-11-11,18-24,Prefer not to say,South
+C0116,2026-11-09,25-34,Male,North
+C0117,2026-10-05,35-44,Female,West
+C0118,2026-07-07,18-24,Male,South
+C0119,2026-11-04,18-24,Prefer not to say,Central
+C0120,2026-10-17,18-24,Male,West
+C0121,2026-10-10,55+,Prefer not to say,North
+C0122,2026-08-21,18-24,Prefer not to say,West
+C0123,2026-10-05,35-44,Male,Central
+C0124,2026-10-03,18-24,Female,West
+C0125,2026-11-27,55+,Female,North
+C0126,2026-08-14,35-44,Female,Central
+C0127,2026-10-01,25-34,Male,East
+C0128,2026-07-22,45-54,Female,North
+C0129,2026-11-25,55+,Female,Central
+C0130,2026-11-20,35-44,Prefer not to say,North
+C0131,2026-11-11,45-54,Female,North
+C0132,2026-10-29,18-24,Prefer not to say,Central
+C0133,2026-10-11,45-54,Female,East
+C0134,2026-08-13,18-24,Male,West
+C0135,2026-07-27,18-24,Male,East
+C0136,2026-07-15,35-44,Female,South
+C0137,2026-10-17,55+,Prefer not to say,East
+C0138,2026-10-22,55+,Male,West
+C0139,2026-08-08,35-44,Male,North
+C0140,2026-07-14,35-44,Female,North
+C0141,2026-07-09,55+,Female,North
+C0142,2026-10-29,18-24,Female,West
+C0143,2026-11-20,35-44,Female,South
+C0144,2026-07-04,35-44,Female,South
+C0145,2026-09-28,35-44,Prefer not to say,West
+C0146,2026-08-11,25-34,Prefer not to say,Central
+C0147,2026-08-14,18-24,Female,North
+C0148,2026-08-14,55+,Male,East
+C0149,2026-10-30,35-44,Prefer not to say,West
+C0150,2026-09-24,25-34,Prefer not to say,West
+C0151,2026-09-21,55+,Prefer not to say,West
+C0152,2026-09-18,35-44,Female,East
+C0153,2026-08-08,45-54,Prefer not to say,Central
+C0154,2026-09-05,25-34,Female,East
+C0155,2026-07-22,45-54,Male,North
+C0156,2026-09-28,25-34,Male,East
+C0157,2026-07-11,35-44,Female,South
+C0158,2026-08-31,45-54,Prefer not to say,South
+C0159,2026-10-22,45-54,Male,Central
+C0160,2026-10-23,45-54,Prefer not to say,North
+C0161,2026-10-05,18-24,Prefer not to say,East
+C0162,2026-09-26,45-54,Female,West
+C0163,2026-09-16,55+,Prefer not to say,North
+C0164,2026-10-01,55+,Male,Central
+C0165,2026-10-09,55+,Prefer not to say,North
+C0166,2026-09-09,35-44,Prefer not to say,Central
+C0167,2026-07-09,55+,Female,South
+C0168,2026-09-25,55+,Male,South
+C0169,2026-09-11,18-24,Prefer not to say,East
+C0170,2026-10-22,35-44,Male,East
+C0171,2026-07-07,55+,Prefer not to say,Central
+C0172,2026-11-20,45-54,Female,South
+C0173,2026-09-05,35-44,Female,East
+C0174,2026-08-07,45-54,Prefer not to say,Central
+C0175,2026-07-28,18-24,Female,North
+C0176,2026-07-15,55+,Male,North
+C0177,2026-11-14,35-44,Male,West
+C0178,2026-11-08,55+,Prefer not to say,East
+C0179,2026-08-26,25-34,Female,South
+C0180,2026-09-30,55+,Male,North
+C0181,2026-11-06,25-34,Female,West
+C0182,2026-08-20,35-44,Prefer not to say,Central
+C0183,2026-07-03,18-24,Female,South
+C0184,2026-10-16,35-44,Female,East
+C0185,2026-11-04,25-34,Female,East
+C0186,2026-09-23,35-44,Prefer not to say,South
+C0187,2026-11-25,55+,Male,Central
+C0188,2026-07-27,55+,Female,North
+C0189,2026-09-11,45-54,Prefer not to say,East
+C0190,2026-11-16,35-44,Male,East
+C0191,2026-10-07,18-24,Male,South
+C0192,2026-11-27,25-34,Male,North
+C0193,2026-11-01,55+,Male,West
+C0194,2026-08-16,18-24,Male,West
+C0195,2026-07-21,45-54,Female,West
+C0196,2026-09-25,55+,Female,East
+C0197,2026-09-27,25-34,Prefer not to say,South
+C0198,2026-10-17,45-54,Male,Central
+C0199,2026-11-06,55+,Prefer not to say,Central
+C0200,2026-10-25,55+,Prefer not to say,Central
+C0201,2026-10-27,45-54,Male,East
+C0202,2026-09-10,35-44,Prefer not to say,East
+C0203,2026-10-24,35-44,Female,South
+C0204,2026-09-10,18-24,Female,Central
+C0205,2026-08-04,55+,Prefer not to say,South
+C0206,2026-10-15,18-24,Prefer not to say,East
+C0207,2026-10-20,25-34,Prefer not to say,West
+C0208,2026-09-24,18-24,Prefer not to say,Central
+C0209,2026-08-23,35-44,Male,South
+C0210,2026-11-10,55+,Female,North
+C0211,2026-08-09,35-44,Prefer not to say,East
+C0212,2026-09-14,45-54,Prefer not to say,South
+C0213,2026-10-17,35-44,Male,North
+C0214,2026-07-18,35-44,Male,Central
+C0215,2026-10-11,25-34,Prefer not to say,South
+C0216,2026-08-31,18-24,Male,North
+C0217,2026-10-16,35-44,Prefer not to say,East
+C0218,2026-11-10,18-24,Male,South
+C0219,2026-07-27,45-54,Female,South
+C0220,2026-08-03,45-54,Prefer not to say,East
+C0221,2026-08-31,25-34,Female,South
+C0222,2026-10-21,25-34,Prefer not to say,West
+C0223,2026-07-18,55+,Male,South
+C0224,2026-09-11,35-44,Male,East
+C0225,2026-10-16,25-34,Female,North
+C0226,2026-08-03,18-24,Female,Central
+C0227,2026-07-04,45-54,Prefer not to say,South
+C0228,2026-11-20,45-54,Prefer not to say,North
+C0229,2026-10-10,45-54,Female,East
+C0230,2026-09-15,35-44,Prefer not to say,Central
+C0231,2026-09-23,55+,Male,West
+C0232,2026-08-29,35-44,Male,East
+C0233,2026-09-14,18-24,Prefer not to say,North
+C0234,2026-08-12,55+,Prefer not to say,Central
+C0235,2026-08-15,35-44,Female,North
+C0236,2026-08-13,55+,Prefer not to say,Central
+C0237,2026-10-06,45-54,Prefer not to say,North
+C0238,2026-09-19,55+,Male,West
+C0239,2026-11-12,35-44,Female,Central
+C0240,2026-11-06,25-34,Prefer not to say,Central
+C0241,2026-09-12,45-54,Female,East
+C0242,2026-08-09,18-24,Female,North
+C0243,2026-08-26,25-34,Prefer not to say,Central
+C0244,2026-11-20,45-54,Female,South
+C0245,2026-08-23,25-34,Female,South
+C0246,2026-10-19,45-54,Prefer not to say,West
+C0247,2026-09-14,25-34,Male,West
+C0248,2026-11-17,45-54,Female,West
+C0249,2026-11-16,35-44,Female,West
+C0250,2026-08-06,55+,Male,West
+C0251,2026-07-08,25-34,Female,North
+C0252,2026-11-07,45-54,Male,Central
+C0253,2026-08-27,35-44,Male,North
+C0254,2026-07-02,45-54,Female,Central
+C0255,2026-08-28,25-34,Male,East
+C0256,2026-10-03,45-54,Female,East
+C0257,2026-10-17,25-34,Female,South
+C0258,2026-10-24,45-54,Prefer not to say,North
+C0259,2026-07-15,35-44,Male,South
+C0260,2026-09-25,55+,Male,Central
+C0261,2026-10-29,25-34,Female,South
+C0262,2026-10-27,25-34,Prefer not to say,South
+C0263,2026-08-13,55+,Male,West
+C0264,2026-07-06,35-44,Prefer not to say,South
+C0265,2026-09-04,18-24,Prefer not to say,South
+C0266,2026-09-23,35-44,Male,East
+C0267,2026-10-14,55+,Prefer not to say,South
+C0268,2026-11-26,45-54,Male,North
+C0269,2026-09-14,18-24,Female,West
+C0270,2026-10-31,55+,Prefer not to say,North
+C0271,2026-10-01,55+,Male,East
+C0272,2026-10-11,45-54,Female,Central
+C0273,2026-10-09,35-44,Male,Central
+C0274,2026-07-03,35-44,Male,Central
+C0275,2026-09-06,45-54,Male,South
+C0276,2026-08-23,25-34,Prefer not to say,South
+C0277,2026-07-19,25-34,Male,Central
+C0278,2026-09-23,35-44,Prefer not to say,West
+C0279,2026-10-21,18-24,Female,West
+C0280,2026-08-11,25-34,Prefer not to say,Central
+C0281,2026-09-06,35-44,Prefer not to say,Central
+C0282,2026-09-10,25-34,Male,East
+C0283,2026-07-09,45-54,Male,North
+C0284,2026-11-20,55+,Male,South
+C0285,2026-07-16,18-24,Female,North
+C0286,2026-08-27,25-34,Prefer not to say,Central
+C0287,2026-07-08,18-24,Female,Central
+C0288,2026-11-05,18-24,Male,South
+C0289,2026-11-17,25-34,Female,East
+C0290,2026-10-17,55+,Prefer not to say,North
+C0291,2026-09-21,55+,Female,North
+C0292,2026-11-16,18-24,Female,East
+C0293,2026-08-25,25-34,Male,East
+C0294,2026-08-20,35-44,Male,West
+C0295,2026-07-06,25-34,Prefer not to say,West
+C0296,2026-11-03,25-34,Prefer not to say,West
+C0297,2026-07-19,35-44,Male,East
+C0298,2026-10-19,55+,Male,West
+C0299,2026-11-26,35-44,Male,West
+C0300,2026-09-26,55+,Male,Central
+C0301,2026-11-23,35-44,Male,North
+C0302,2026-09-26,35-44,Prefer not to say,South
+C0303,2026-10-08,25-34,Prefer not to say,North
+C0304,2026-10-22,18-24,Male,Central
+C0305,2026-10-02,35-44,Female,Central
+C0306,2026-08-27,55+,Male,South
+C0307,2026-09-19,25-34,Prefer not to say,East
+C0308,2026-08-06,18-24,Male,Central
+C0309,2026-11-06,25-34,Female,West
+C0310,2026-09-19,18-24,Female,Central
+C0311,2026-08-17,18-24,Male,East
+C0312,2026-11-03,35-44,Prefer not to say,East
+C0313,2026-09-20,25-34,Female,South
+C0314,2026-07-11,25-34,Male,West
+C0315,2026-09-06,45-54,Female,North
+C0316,2026-11-09,55+,Female,East
+C0317,2026-07-15,25-34,Prefer not to say,East
+C0318,2026-08-31,25-34,Prefer not to say,North
+C0319,2026-08-13,35-44,Male,North
+C0320,2026-08-14,55+,Female,West
+C0321,2026-08-29,35-44,Prefer not to say,North
+C0322,2026-11-25,35-44,Female,South
+C0323,2026-07-23,55+,Female,East
+C0324,2026-08-12,35-44,Male,Central
+C0325,2026-09-20,55+,Prefer not to say,North
+C0326,2026-07-07,35-44,Male,Central
+C0327,2026-09-03,18-24,Female,South
+C0328,2026-08-09,35-44,Male,West
+C0329,2026-07-03,18-24,Prefer not to say,Central
+C0330,2026-07-23,18-24,Female,East
+C0331,2026-08-29,35-44,Prefer not to say,East
+C0332,2026-10-30,18-24,Female,South
+C0333,2026-10-19,25-34,Male,West
+C0334,2026-11-17,45-54,Female,South
+C0335,2026-11-04,25-34,Male,South
+C0336,2026-07-30,18-24,Female,North
+C0337,2026-08-12,55+,Female,South
+C0338,2026-11-06,18-24,Female,North
+C0339,2026-07-24,35-44,Prefer not to say,East
+C0340,2026-11-21,18-24,Female,Central
+C0341,2026-11-12,55+,Female,Central
+C0342,2026-11-17,55+,Prefer not to say,North
+C0343,2026-11-26,45-54,Prefer not to say,West
+C0344,2026-09-16,35-44,Female,South
+C0345,2026-07-30,55+,Female,Central
+C0346,2026-07-10,55+,Female,North
+C0347,2026-08-25,25-34,Male,West
+C0348,2026-11-21,25-34,Female,West
+C0349,2026-08-08,25-34,Male,West
+C0350,2026-11-03,18-24,Male,North
+C0351,2026-11-01,18-24,Female,South
+C0352,2026-11-18,55+,Female,Central
+C0353,2026-07-30,55+,Male,East
+C0354,2026-07-10,35-44,Female,North
+C0355,2026-08-31,25-34,Female,North
+C0356,2026-09-02,35-44,Male,Central
+C0357,2026-10-03,45-54,Female,West
+C0358,2026-07-20,35-44,Prefer not to say,West
+C0359,2026-10-09,35-44,Female,West
+C0360,2026-10-25,35-44,Prefer not to say,South
+C0361,2026-09-30,45-54,Female,South
+C0362,2026-07-20,45-54,Prefer not to say,South
+C0363,2026-07-31,45-54,Female,South
+C0364,2026-11-05,55+,Prefer not to say,North
+C0365,2026-07-24,18-24,Male,West
+C0366,2026-07-08,25-34,Prefer not to say,Central
+C0367,2026-10-06,25-34,Female,West
+C0368,2026-10-11,45-54,Female,North
+C0369,2026-09-27,55+,Prefer not to say,East
+C0370,2026-10-12,55+,Male,West
+C0371,2026-09-01,25-34,Female,South
+C0372,2026-10-27,18-24,Female,West
+C0373,2026-07-28,35-44,Prefer not to say,North
+C0374,2026-07-07,55+,Male,North
+C0375,2026-09-09,18-24,Prefer not to say,West
+C0376,2026-08-20,25-34,Female,South
+C0377,2026-09-15,25-34,Female,West
+C0378,2026-09-25,55+,Male,East
+C0379,2026-09-12,55+,Prefer not to say,Central
+C0380,2026-11-19,25-34,Prefer not to say,South
+C0381,2026-09-01,45-54,Male,Central
+C0382,2026-07-02,55+,Male,South
+C0383,2026-08-06,55+,Male,Central
+C0384,2026-08-06,35-44,Prefer not to say,East
+C0385,2026-09-09,35-44,Male,North
+C0386,2026-08-24,55+,Female,Central
+C0387,2026-10-16,18-24,Female,East
+C0388,2026-11-10,25-34,Female,West
+C0389,2026-11-04,55+,Prefer not to say,South
+C0390,2026-11-18,45-54,Female,West
+C0391,2026-11-22,25-34,Female,South
+C0392,2026-11-14,18-24,Female,East
+C0393,2026-08-30,45-54,Male,West
+C0394,2026-10-02,55+,Male,West
+C0395,2026-10-16,35-44,Prefer not to say,West
+C0396,2026-10-31,35-44,Female,West
+C0397,2026-08-29,45-54,Female,South
+C0398,2026-07-10,45-54,Female,North
+C0399,2026-10-26,35-44,Male,South
+C0400,2026-11-25,45-54,Male,West
+C0401,2026-07-10,18-24,Male,East
+C0402,2026-11-09,35-44,Female,Central
+C0403,2026-07-27,18-24,Prefer not to say,East
+C0404,2026-09-03,18-24,Male,West
+C0405,2026-08-15,55+,Female,East
+C0406,2026-08-24,45-54,Female,North
+C0407,2026-10-15,55+,Male,North
+C0408,2026-07-27,35-44,Male,North
+C0409,2026-08-20,45-54,Female,North
+C0410,2026-11-10,55+,Female,West
+C0411,2026-07-06,35-44,Male,East
+C0412,2026-09-08,45-54,Male,East
+C0413,2026-08-14,45-54,Prefer not to say,South
+C0414,2026-10-06,55+,Male,South
+C0415,2026-11-05,45-54,Female,East
+C0416,2026-07-07,25-34,Male,East
+C0417,2026-09-19,35-44,Male,Central
+C0418,2026-09-29,45-54,Male,North
+C0419,2026-07-03,25-34,Female,North
+C0420,2026-07-24,55+,Male,South
+C0421,2026-08-08,45-54,Female,South
+C0422,2026-11-11,45-54,Prefer not to say,West
+C0423,2026-09-07,25-34,Prefer not to say,North
+C0424,2026-10-22,25-34,Male,Central
+C0425,2026-08-29,55+,Male,North
+C0426,2026-11-26,35-44,Prefer not to say,West
+C0427,2026-07-06,55+,Female,East
+C0428,2026-07-08,55+,Prefer not to say,North
+C0429,2026-10-13,35-44,Female,Central
+C0430,2026-07-30,18-24,Female,West
+C0431,2026-09-05,18-24,Female,East
+C0432,2026-11-13,35-44,Prefer not to say,East
+C0433,2026-08-18,45-54,Male,North
+C0434,2026-07-04,45-54,Female,West
+C0435,2026-11-24,35-44,Prefer not to say,Central
+C0436,2026-09-24,18-24,Male,South
+C0437,2026-09-29,35-44,Male,Central
+C0438,2026-10-08,45-54,Prefer not to say,East
+C0439,2026-09-14,25-34,Female,West
+C0440,2026-09-29,45-54,Female,West
+C0441,2026-09-26,25-34,Prefer not to say,North
+C0442,2026-07-04,18-24,Male,North
+C0443,2026-10-23,25-34,Male,East
+C0444,2026-10-27,55+,Prefer not to say,East
+C0445,2026-09-20,55+,Female,South
+C0446,2026-09-19,18-24,Male,South
+C0447,2026-11-19,25-34,Female,West
+C0448,2026-09-10,55+,Prefer not to say,West
+C0449,2026-07-24,18-24,Female,North
+C0450,2026-10-22,18-24,Male,Central
+C0451,2026-07-27,25-34,Prefer not to say,Central
+C0452,2026-09-11,35-44,Male,West
+C0453,2026-07-20,25-34,Female,East
+C0454,2026-11-22,35-44,Prefer not to say,East
+C0455,2026-07-24,35-44,Female,South
+C0456,2026-09-19,35-44,Female,Central
+C0457,2026-08-21,25-34,Male,South
+C0458,2026-11-14,45-54,Prefer not to say,East
+C0459,2026-10-12,45-54,Prefer not to say,Central
+C0460,2026-08-01,25-34,Female,South
+C0461,2026-10-15,35-44,Male,East
+C0462,2026-10-25,45-54,Female,North
+C0463,2026-09-26,55+,Prefer not to say,South
+C0464,2026-07-17,55+,Male,North
+C0465,2026-11-11,55+,Male,North
+C0466,2026-07-01,45-54,Prefer not to say,Central
+C0467,2026-07-31,18-24,Male,North
+C0468,2026-07-20,35-44,Male,East
+C0469,2026-09-04,45-54,Prefer not to say,North
+C0470,2026-07-27,55+,Prefer not to say,South
+C0471,2026-07-16,55+,Male,East
+C0472,2026-09-16,25-34,Prefer not to say,East
+C0473,2026-11-03,25-34,Prefer not to say,Central
+C0474,2026-11-17,35-44,Prefer not to say,South
+C0475,2026-08-31,45-54,Prefer not to say,West
+C0476,2026-09-13,55+,Prefer not to say,West
+C0477,2026-10-26,18-24,Female,West
+C0478,2026-11-21,55+,Female,South
+C0479,2026-09-26,25-34,Female,East
+C0480,2026-07-25,25-34,Female,Central
+C0481,2026-07-08,55+,Female,South
+C0482,2026-10-12,45-54,Prefer not to say,Central
+C0483,2026-07-16,55+,Male,West
+C0484,2026-10-14,18-24,Female,Central
+C0485,2026-10-19,35-44,Prefer not to say,South
+C0486,2026-11-18,25-34,Prefer not to say,East
+C0487,2026-10-26,18-24,Male,East
+C0488,2026-10-12,55+,Female,North
+C0489,2026-07-01,18-24,Female,West
+C0490,2026-07-03,55+,Female,West
+C0491,2026-07-12,25-34,Male,Central
+C0492,2026-07-16,55+,Prefer not to say,Central
+C0493,2026-10-15,45-54,Prefer not to say,South
+C0494,2026-08-12,18-24,Male,North
+C0495,2026-11-24,55+,Female,East
+C0496,2026-11-07,35-44,Prefer not to say,South
+C0497,2026-10-20,45-54,Prefer not to say,East
+C0498,2026-11-16,45-54,Male,South
+C0499,2026-10-13,35-44,Female,West
+C0500,2026-09-12,35-44,Male,West
+C0501,2026-09-20,45-54,Female,West
+C0502,2026-10-29,45-54,Male,East
+C0503,2026-07-23,55+,Prefer not to say,South
+C0504,2026-11-06,18-24,Male,Central
+C0505,2026-09-08,45-54,Male,Central
+C0506,2026-09-28,18-24,Female,South
+C0507,2026-09-17,35-44,Female,South
+C0508,2026-07-16,25-34,Male,South
+C0509,2026-10-10,55+,Female,North
+C0510,2026-08-25,25-34,Prefer not to say,West
+C0511,2026-09-04,35-44,Female,East
+C0512,2026-10-22,25-34,Female,North
+C0513,2026-07-09,45-54,Male,North
+C0514,2026-10-06,25-34,Male,North
+C0515,2026-10-19,55+,Male,South
+C0516,2026-08-08,35-44,Male,West
+C0517,2026-10-31,35-44,Female,South
+C0518,2026-09-26,55+,Female,West
+C0519,2026-11-25,55+,Female,North
+C0520,2026-09-30,25-34,Male,West
+C0521,2026-08-23,25-34,Female,West
+C0522,2026-10-20,25-34,Female,East
+C0523,2026-08-03,25-34,Prefer not to say,East
+C0524,2026-10-11,25-34,Prefer not to say,South
+C0525,2026-10-28,25-34,Female,West
+C0526,2026-08-15,25-34,Male,Central
+C0527,2026-08-23,18-24,Female,South
+C0528,2026-08-28,45-54,Prefer not to say,North
+C0529,2026-07-02,55+,Prefer not to say,Central
+C0530,2026-09-18,25-34,Prefer not to say,South
+C0531,2026-09-03,18-24,Female,West
+C0532,2026-07-03,35-44,Female,South
+C0533,2026-08-29,25-34,Prefer not to say,North
+C0534,2026-11-15,55+,Female,Central
+C0535,2026-09-10,35-44,Male,North
+C0536,2026-08-02,35-44,Prefer not to say,West
+C0537,2026-11-18,18-24,Male,West
+C0538,2026-08-26,45-54,Female,Central
+C0539,2026-11-12,35-44,Prefer not to say,North
+C0540,2026-10-31,45-54,Prefer not to say,West
+C0541,2026-11-16,18-24,Prefer not to say,West
+C0542,2026-09-14,35-44,Prefer not to say,East
+C0543,2026-09-17,35-44,Prefer not to say,South
+C0544,2026-07-25,35-44,Male,Central
+C0545,2026-08-26,45-54,Prefer not to say,South
+C0546,2026-10-20,35-44,Female,East
+C0547,2026-08-22,25-34,Prefer not to say,West
+C0548,2026-08-20,55+,Male,Central
+C0549,2026-11-13,35-44,Prefer not to say,South
+C0550,2026-09-06,25-34,Prefer not to say,Central
+C0551,2026-08-24,55+,Female,South
+C0552,2026-10-25,55+,Prefer not to say,West
+C0553,2026-11-10,25-34,Prefer not to say,South
+C0554,2026-07-21,35-44,Female,South
+C0555,2026-08-12,18-24,Prefer not to say,Central
+C0556,2026-10-04,55+,Prefer not to say,West
+C0557,2026-09-27,35-44,Female,North
+C0558,2026-08-02,35-44,Female,West
+C0559,2026-10-20,45-54,Prefer not to say,Central
+C0560,2026-10-12,18-24,Male,West
+C0561,2026-08-27,35-44,Male,West
+C0562,2026-10-29,18-24,Male,Central
+C0563,2026-11-25,55+,Male,South
+C0564,2026-08-06,55+,Prefer not to say,East
+C0565,2026-07-23,18-24,Female,Central
+C0566,2026-09-24,25-34,Male,South
+C0567,2026-10-29,45-54,Female,South
+C0568,2026-07-27,35-44,Male,Central
+C0569,2026-10-11,25-34,Prefer not to say,West
+C0570,2026-09-14,25-34,Prefer not to say,West
+C0571,2026-08-28,55+,Prefer not to say,East
+C0572,2026-09-25,55+,Male,North
+C0573,2026-08-21,55+,Prefer not to say,East
+C0574,2026-09-21,35-44,Male,East
+C0575,2026-10-20,35-44,Female,North
+C0576,2026-10-29,18-24,Prefer not to say,West
+C0577,2026-08-25,18-24,Female,South
+C0578,2026-07-24,18-24,Prefer not to say,South
+C0579,2026-10-28,25-34,Male,West
+C0580,2026-08-26,25-34,Male,West
+C0581,2026-10-27,25-34,Prefer not to say,South
+C0582,2026-08-13,25-34,Male,Central
+C0583,2026-10-24,35-44,Prefer not to say,South
+C0584,2026-07-17,45-54,Prefer not to say,West
+C0585,2026-07-02,18-24,Prefer not to say,North
+C0586,2026-07-09,55+,Female,East
+C0587,2026-11-18,55+,Male,West
+C0588,2026-07-06,45-54,Female,South
+C0589,2026-10-14,35-44,Male,West
+C0590,2026-11-20,55+,Prefer not to say,South
+C0591,2026-10-29,55+,Male,Central
+C0592,2026-10-01,35-44,Female,West
+C0593,2026-10-19,18-24,Prefer not to say,North
+C0594,2026-08-20,45-54,Female,West
+C0595,2026-09-13,35-44,Prefer not to say,Central
+C0596,2026-07-28,18-24,Male,East
+C0597,2026-11-03,25-34,Prefer not to say,East
+C0598,2026-10-16,45-54,Prefer not to say,East
+C0599,2026-09-04,45-54,Female,South
+C0600,2026-11-16,45-54,Prefer not to say,North
+C0601,2026-09-22,25-34,Prefer not to say,Central
+C0602,2026-07-08,35-44,Male,West
+C0603,2026-09-27,18-24,Prefer not to say,South
+C0604,2026-10-22,55+,Male,West
+C0605,2026-10-22,18-24,Prefer not to say,Central
+C0606,2026-11-16,55+,Female,West
+C0607,2026-09-09,25-34,Male,East
+C0608,2026-07-12,55+,Male,Central
+C0609,2026-09-20,55+,Female,Central
+C0610,2026-07-11,45-54,Female,East
+C0611,2026-07-15,25-34,Female,North
+C0612,2026-11-08,55+,Prefer not to say,Central
+C0613,2026-10-08,35-44,Male,Central
+C0614,2026-08-12,35-44,Female,East
+C0615,2026-08-29,35-44,Male,Central
+C0616,2026-10-12,55+,Male,South
+C0617,2026-07-29,25-34,Female,East
+C0618,2026-10-08,18-24,Female,Central
+C0619,2026-10-24,18-24,Female,Central
+C0620,2026-11-17,18-24,Female,East
+C0621,2026-09-18,45-54,Prefer not to say,East
+C0622,2026-10-06,45-54,Female,East
+C0623,2026-07-16,25-34,Male,West
+C0624,2026-09-05,45-54,Male,West
+C0625,2026-10-19,55+,Female,North
+C0626,2026-10-18,18-24,Female,South
+C0627,2026-07-30,35-44,Female,South
+C0628,2026-11-25,45-54,Prefer not to say,East
+C0629,2026-09-28,55+,Male,Central
+C0630,2026-07-18,55+,Prefer not to say,North
+C0631,2026-07-11,35-44,Female,East
+C0632,2026-11-11,55+,Female,South
+C0633,2026-08-25,35-44,Female,Central
+C0634,2026-10-15,45-54,Female,North
+C0635,2026-08-27,55+,Male,East
+C0636,2026-07-01,18-24,Female,Central
+C0637,2026-09-25,45-54,Female,Central
+C0638,2026-07-03,18-24,Female,North
+C0639,2026-08-17,35-44,Male,West
+C0640,2026-07-25,55+,Female,East
+C0641,2026-11-21,18-24,Male,North
+C0642,2026-09-14,55+,Prefer not to say,Central
+C0643,2026-07-30,25-34,Male,East
+C0644,2026-07-10,35-44,Male,North
+C0645,2026-11-25,18-24,Prefer not to say,Central
+C0646,2026-08-26,55+,Male,Central
+C0647,2026-10-21,18-24,Prefer not to say,West
+C0648,2026-11-04,18-24,Male,North
+C0649,2026-11-15,18-24,Prefer not to say,East
+C0650,2026-08-07,55+,Female,South
+C0651,2026-11-20,35-44,Female,West
+C0652,2026-07-26,55+,Male,North
+C0653,2026-08-09,55+,Female,South
+C0654,2026-08-05,18-24,Female,East
+C0655,2026-11-25,35-44,Female,South
+C0656,2026-07-11,55+,Male,North
+C0657,2026-07-14,25-34,Male,North
+C0658,2026-10-29,45-54,Male,Central
+C0659,2026-11-20,35-44,Male,South
+C0660,2026-10-23,35-44,Prefer not to say,North
+C0661,2026-10-08,45-54,Female,North
+C0662,2026-08-16,45-54,Prefer not to say,South
+C0663,2026-07-09,25-34,Female,West
+C0664,2026-10-03,18-24,Male,East
+C0665,2026-11-03,18-24,Female,North
+C0666,2026-07-31,55+,Male,North
+C0667,2026-07-17,55+,Female,North
+C0668,2026-08-03,25-34,Prefer not to say,Central
+C0669,2026-08-26,25-34,Female,South
+C0670,2026-09-22,35-44,Prefer not to say,Central
+C0671,2026-11-04,55+,Prefer not to say,South
+C0672,2026-07-16,45-54,Female,South
+C0673,2026-07-30,35-44,Prefer not to say,East
+C0674,2026-10-19,55+,Prefer not to say,Central
+C0675,2026-07-27,18-24,Prefer not to say,West
+C0676,2026-07-28,55+,Male,Central
+C0677,2026-07-13,35-44,Male,North
+C0678,2026-09-27,25-34,Female,North
+C0679,2026-08-06,18-24,Female,West
+C0680,2026-07-02,55+,Female,West
+C0681,2026-09-09,18-24,Prefer not to say,Central
+C0682,2026-07-04,35-44,Male,West
+C0683,2026-07-11,55+,Prefer not to say,North
+C0684,2026-11-05,18-24,Male,North
+C0685,2026-11-19,25-34,Male,West
+C0686,2026-11-22,35-44,Male,East
+C0687,2026-11-22,35-44,Female,West
+C0688,2026-07-03,55+,Prefer not to say,East
+C0689,2026-11-06,18-24,Male,South
+C0690,2026-10-25,35-44,Male,West
+C0691,2026-10-19,55+,Prefer not to say,South
+C0692,2026-11-17,35-44,Prefer not to say,North
+C0693,2026-11-02,35-44,Female,Central
+C0694,2026-09-09,18-24,Male,South
+C0695,2026-07-05,35-44,Prefer not to say,East
+C0696,2026-10-25,45-54,Male,South
+C0697,2026-09-19,25-34,Prefer not to say,Central
+C0698,2026-09-12,45-54,Male,West
+C0699,2026-07-22,55+,Male,South
+C0700,2026-07-12,18-24,Male,East
+C0701,2026-11-04,25-34,Prefer not to say,West
+C0702,2026-08-01,45-54,Male,West
+C0703,2026-11-10,35-44,Prefer not to say,North
+C0704,2026-08-04,45-54,Female,Central
+C0705,2026-10-23,45-54,Female,North
+C0706,2026-10-08,45-54,Female,Central
+C0707,2026-10-11,45-54,Female,South
+C0708,2026-09-17,55+,Prefer not to say,South
+C0709,2026-09-08,45-54,Prefer not to say,Central
+C0710,2026-10-14,45-54,Prefer not to say,North
+C0711,2026-08-01,45-54,Male,West
+C0712,2026-08-10,45-54,Prefer not to say,West
+C0713,2026-09-14,18-24,Female,North
+C0714,2026-10-02,45-54,Female,South
+C0715,2026-07-23,25-34,Male,South
+C0716,2026-09-09,25-34,Female,East
+C0717,2026-08-08,35-44,Prefer not to say,West
+C0718,2026-07-09,18-24,Prefer not to say,East
+C0719,2026-11-11,55+,Male,Central
+C0720,2026-10-08,18-24,Male,South
+C0721,2026-07-28,35-44,Female,East
+C0722,2026-08-08,18-24,Prefer not to say,East
+C0723,2026-08-28,35-44,Female,North
+C0724,2026-08-18,18-24,Prefer not to say,East
+C0725,2026-10-04,45-54,Female,East
+C0726,2026-08-28,35-44,Prefer not to say,South
+C0727,2026-09-01,25-34,Female,North
+C0728,2026-07-02,55+,Female,South
+C0729,2026-11-26,35-44,Male,South
+C0730,2026-07-28,35-44,Prefer not to say,North
+C0731,2026-09-10,18-24,Prefer not to say,West
+C0732,2026-11-09,25-34,Male,South
+C0733,2026-10-28,45-54,Prefer not to say,Central
+C0734,2026-08-08,35-44,Female,South
+C0735,2026-07-25,18-24,Male,Central
+C0736,2026-08-07,25-34,Female,South
+C0737,2026-11-03,55+,Prefer not to say,Central
+C0738,2026-07-21,55+,Female,North
+C0739,2026-07-11,55+,Male,South
+C0740,2026-09-18,25-34,Male,East
+C0741,2026-10-27,55+,Prefer not to say,West
+C0742,2026-08-25,35-44,Male,Central
+C0743,2026-10-30,45-54,Male,East
+C0744,2026-08-02,45-54,Female,East
+C0745,2026-11-06,55+,Prefer not to say,South
+C0746,2026-08-20,45-54,Prefer not to say,South
+C0747,2026-09-19,35-44,Male,South
+C0748,2026-08-02,35-44,Female,East
+C0749,2026-07-30,18-24,Male,Central
+C0750,2026-11-20,25-34,Prefer not to say,North
+C0751,2026-09-23,18-24,Female,East
+C0752,2026-09-25,35-44,Female,Central
+C0753,2026-11-12,25-34,Prefer not to say,West
+C0754,2026-08-10,18-24,Male,West
+C0755,2026-10-10,45-54,Male,West
+C0756,2026-10-05,18-24,Prefer not to say,South
+C0757,2026-11-16,55+,Male,East
+C0758,2026-09-21,55+,Male,North
+C0759,2026-08-03,18-24,Prefer not to say,West
+C0760,2026-09-19,25-34,Female,South
+C0761,2026-10-08,55+,Male,Central
+C0762,2026-08-18,18-24,Male,South
+C0763,2026-10-10,25-34,Female,North
+C0764,2026-11-01,35-44,Prefer not to say,North
+C0765,2026-09-04,35-44,Female,North
+C0766,2026-08-01,18-24,Male,North
+C0767,2026-09-10,35-44,Male,South
+C0768,2026-10-06,35-44,Male,West
+C0769,2026-09-18,35-44,Female,South
+C0770,2026-07-18,55+,Prefer not to say,West
+C0771,2026-07-25,18-24,Prefer not to say,East
+C0772,2026-08-28,25-34,Female,East
+C0773,2026-11-26,45-54,Female,Central
+C0774,2026-10-19,55+,Male,North
+C0775,2026-07-24,18-24,Female,South
+C0776,2026-09-16,25-34,Male,East
+C0777,2026-11-05,35-44,Prefer not to say,Central
+C0778,2026-09-30,55+,Prefer not to say,West
+C0779,2026-07-18,55+,Prefer not to say,Central
+C0780,2026-07-24,45-54,Prefer not to say,West
+C0781,2026-07-14,25-34,Female,East
+C0782,2026-11-24,55+,Female,West
+C0783,2026-09-04,25-34,Male,West
+C0784,2026-08-26,55+,Female,West
+C0785,2026-09-12,55+,Female,South
+C0786,2026-08-24,18-24,Female,South
+C0787,2026-08-17,25-34,Prefer not to say,East
+C0788,2026-09-06,55+,Female,West
+C0789,2026-07-04,35-44,Male,South
+C0790,2026-07-31,35-44,Prefer not to say,Central
+C0791,2026-08-25,45-54,Prefer not to say,West
+C0792,2026-09-18,45-54,Male,West
+C0793,2026-09-04,18-24,Male,North
+C0794,2026-08-26,45-54,Male,West
+C0795,2026-09-29,45-54,Female,North
+C0796,2026-10-24,45-54,Prefer not to say,South
+C0797,2026-08-11,55+,Female,North
+C0798,2026-08-16,55+,Female,North
+C0799,2026-11-26,25-34,Prefer not to say,West
+C0800,2026-11-15,25-34,Male,Central
+C0801,2026-09-05,45-54,Female,West
+C0802,2026-09-05,25-34,Prefer not to say,South
+C0803,2026-08-20,18-24,Male,East
+C0804,2026-10-19,55+,Female,North
+C0805,2026-10-11,45-54,Prefer not to say,West
+C0806,2026-07-09,35-44,Prefer not to say,East
+C0807,2026-08-29,18-24,Female,South
+C0808,2026-09-03,35-44,Female,East
+C0809,2026-11-11,35-44,Prefer not to say,Central
+C0810,2026-07-24,18-24,Prefer not to say,East
+C0811,2026-10-19,35-44,Female,South
+C0812,2026-09-05,25-34,Female,North
+C0813,2026-10-08,25-34,Male,Central
+C0814,2026-07-23,45-54,Prefer not to say,North
+C0815,2026-09-17,55+,Prefer not to say,South
+C0816,2026-10-05,35-44,Prefer not to say,Central
+C0817,2026-07-25,18-24,Prefer not to say,West
+C0818,2026-09-25,55+,Male,East
+C0819,2026-11-19,35-44,Prefer not to say,East
+C0820,2026-08-12,18-24,Prefer not to say,South
+C0821,2026-11-05,55+,Female,North
+C0822,2026-08-23,45-54,Female,West
+C0823,2026-09-25,55+,Male,South
+C0824,2026-11-03,45-54,Male,West
+C0825,2026-11-11,45-54,Male,West
+C0826,2026-10-02,55+,Female,East
+C0827,2026-11-21,45-54,Female,South
+C0828,2026-09-18,18-24,Male,East
+C0829,2026-07-19,55+,Male,South
+C0830,2026-11-20,18-24,Prefer not to say,Central
+C0831,2026-09-15,25-34,Male,West
+C0832,2026-08-03,25-34,Female,Central
+C0833,2026-07-04,45-54,Male,North
+C0834,2026-10-02,18-24,Female,North
+C0835,2026-07-20,18-24,Female,Central
+C0836,2026-07-28,35-44,Male,Central
+C0837,2026-07-01,35-44,Male,South
+C0838,2026-08-20,45-54,Male,West
+C0839,2026-08-10,18-24,Male,Central
+C0840,2026-07-04,18-24,Female,Central
+C0841,2026-10-09,18-24,Male,East
+C0842,2026-10-26,55+,Female,East
+C0843,2026-11-24,18-24,Male,West
+C0844,2026-08-27,55+,Prefer not to say,North
+C0845,2026-10-06,45-54,Prefer not to say,Central
+C0846,2026-10-06,45-54,Prefer not to say,South
+C0847,2026-10-08,45-54,Female,North
+C0848,2026-11-27,45-54,Female,North
+C0849,2026-08-16,25-34,Male,South
+C0850,2026-10-19,35-44,Female,South
+C0851,2026-07-15,35-44,Prefer not to say,West
+C0852,2026-11-23,55+,Male,South
+C0853,2026-09-07,35-44,Prefer not to say,West
+C0854,2026-07-27,35-44,Male,West
+C0855,2026-08-20,25-34,Male,West
+C0856,2026-07-02,18-24,Female,East
+C0857,2026-09-17,55+,Female,West
+C0858,2026-11-05,25-34,Prefer not to say,South
+C0859,2026-10-14,18-24,Prefer not to say,West
+C0860,2026-11-08,35-44,Male,Central
+C0861,2026-11-19,55+,Prefer not to say,Central
+C0862,2026-10-16,18-24,Female,Central
+C0863,2026-09-26,55+,Male,South
+C0864,2026-09-27,55+,Male,West
+C0865,2026-09-14,25-34,Prefer not to say,South
+C0866,2026-10-14,35-44,Male,West
+C0867,2026-07-14,25-34,Male,South
+C0868,2026-08-08,45-54,Male,West
+C0869,2026-10-17,35-44,Prefer not to say,West
+C0870,2026-09-06,35-44,Prefer not to say,West
+C0871,2026-10-08,45-54,Prefer not to say,East
+C0872,2026-11-27,35-44,Male,North
+C0873,2026-09-28,35-44,Prefer not to say,South
+C0874,2026-09-09,45-54,Male,East
+C0875,2026-07-10,25-34,Male,North
+C0876,2026-10-02,25-34,Male,West
+C0877,2026-08-13,55+,Prefer not to say,North
+C0878,2026-11-21,35-44,Prefer not to say,Central
+C0879,2026-10-10,35-44,Female,Central
+C0880,2026-09-05,35-44,Female,South
+C0881,2026-10-21,35-44,Male,Central
+C0882,2026-07-09,45-54,Prefer not to say,North
+C0883,2026-10-04,25-34,Prefer not to say,South
+C0884,2026-08-20,55+,Male,West
+C0885,2026-11-26,25-34,Female,Central
+C0886,2026-07-31,25-34,Male,Central
+C0887,2026-10-06,35-44,Prefer not to say,Central
+C0888,2026-07-11,35-44,Female,West
+C0889,2026-08-26,45-54,Female,North
+C0890,2026-09-09,18-24,Male,North
+C0891,2026-10-07,25-34,Female,East
+C0892,2026-07-08,35-44,Female,North
+C0893,2026-08-06,45-54,Male,Central
+C0894,2026-08-28,55+,Male,Central
+C0895,2026-10-19,25-34,Female,East
+C0896,2026-10-10,45-54,Male,West
+C0897,2026-09-07,45-54,Male,North
+C0898,2026-09-02,25-34,Female,West
+C0899,2026-08-20,55+,Prefer not to say,West
+C0900,2026-09-06,18-24,Male,Central
+C0901,2026-08-07,18-24,Prefer not to say,Central
+C0902,2026-09-11,18-24,Female,North
+C0903,2026-07-06,25-34,Prefer not to say,West
+C0904,2026-10-20,18-24,Male,Central
+C0905,2026-07-29,55+,Male,North
+C0906,2026-10-09,35-44,Prefer not to say,East
+C0907,2026-10-27,45-54,Prefer not to say,West
+C0908,2026-08-21,55+,Female,South
+C0909,2026-07-06,45-54,Female,East
+C0910,2026-09-03,25-34,Male,West
+C0911,2026-10-04,35-44,Prefer not to say,West
+C0912,2026-11-13,55+,Female,East
+C0913,2026-07-06,35-44,Prefer not to say,South
+C0914,2026-10-13,18-24,Female,West
+C0915,2026-07-08,45-54,Prefer not to say,West
+C0916,2026-09-24,45-54,Male,North
+C0917,2026-11-01,18-24,Prefer not to say,Central
+C0918,2026-07-31,25-34,Prefer not to say,South
+C0919,2026-08-31,45-54,Female,South
+C0920,2026-11-23,18-24,Female,South
+C0921,2026-11-03,45-54,Male,East
+C0922,2026-11-11,35-44,Prefer not to say,North
+C0923,2026-08-23,25-34,Male,West
+C0924,2026-11-06,45-54,Female,East
+C0925,2026-11-07,18-24,Male,Central
+C0926,2026-07-17,18-24,Prefer not to say,West
+C0927,2026-10-02,18-24,Female,West
+C0928,2026-09-07,18-24,Male,North
+C0929,2026-10-25,55+,Female,Central
+C0930,2026-09-16,45-54,Prefer not to say,East
+C0931,2026-11-09,25-34,Female,South
+C0932,2026-09-04,55+,Male,West
+C0933,2026-08-24,45-54,Male,East
+C0934,2026-07-02,35-44,Male,Central
+C0935,2026-08-03,45-54,Female,Central
+C0936,2026-07-15,55+,Female,South
+C0937,2026-07-31,45-54,Prefer not to say,Central
+C0938,2026-09-01,45-54,Male,South
+C0939,2026-07-22,45-54,Male,Central
+C0940,2026-09-22,55+,Prefer not to say,East
+C0941,2026-09-05,35-44,Female,Central
+C0942,2026-11-21,55+,Male,Central
+C0943,2026-08-25,18-24,Female,South
+C0944,2026-07-09,45-54,Prefer not to say,East
+C0945,2026-10-20,18-24,Prefer not to say,East
+C0946,2026-08-09,45-54,Prefer not to say,Central
+C0947,2026-07-14,18-24,Prefer not to say,East
+C0948,2026-08-10,25-34,Prefer not to say,North
+C0949,2026-08-03,55+,Prefer not to say,Central
+C0950,2026-10-11,45-54,Female,South
+C0951,2026-07-06,55+,Female,South
+C0952,2026-09-30,45-54,Male,East
+C0953,2026-07-01,25-34,Female,West
+C0954,2026-07-31,35-44,Male,North
+C0955,2026-08-16,45-54,Female,South
+C0956,2026-07-07,18-24,Female,Central
+C0957,2026-09-30,25-34,Female,Central
+C0958,2026-09-22,18-24,Female,East
+C0959,2026-08-02,25-34,Female,Central
+C0960,2026-08-05,18-24,Prefer not to say,West
+C0961,2026-11-10,25-34,Female,East
+C0962,2026-11-13,18-24,Prefer not to say,North
+C0963,2026-11-23,25-34,Female,East
+C0964,2026-09-15,55+,Male,West
+C0965,2026-08-25,55+,Male,West
+C0966,2026-11-02,55+,Male,South
+C0967,2026-11-12,25-34,Male,East
+C0968,2026-09-22,25-34,Prefer not to say,North
+C0969,2026-10-04,18-24,Prefer not to say,South
+C0970,2026-11-02,25-34,Prefer not to say,South
+C0971,2026-11-09,25-34,Male,East
+C0972,2026-08-03,55+,Male,North
+C0973,2026-11-07,35-44,Female,East
+C0974,2026-10-02,45-54,Prefer not to say,West
+C0975,2026-11-13,55+,Prefer not to say,North
+C0976,2026-09-25,35-44,Prefer not to say,North
+C0977,2026-09-01,18-24,Prefer not to say,North
+C0978,2026-11-25,45-54,Prefer not to say,Central
+C0979,2026-09-23,35-44,Male,Central
+C0980,2026-10-25,45-54,Female,East
+C0981,2026-07-04,35-44,Prefer not to say,Central
+C0982,2026-09-11,55+,Prefer not to say,North
+C0983,2026-09-22,18-24,Prefer not to say,Central
+C0984,2026-08-04,35-44,Male,West
+C0985,2026-09-13,18-24,Female,East
+C0986,2026-07-07,45-54,Male,Central
+C0987,2026-10-01,35-44,Male,Central
+C0988,2026-08-23,35-44,Male,Central
+C0989,2026-11-08,18-24,Female,Central
+C0990,2026-08-04,25-34,Male,West
+C0991,2026-09-23,35-44,Male,West
+C0992,2026-11-05,45-54,Male,East
+C0993,2026-11-25,25-34,Male,East
+C0994,2026-07-31,25-34,Female,Central
+C0995,2026-10-23,25-34,Male,Central
+C0996,2026-09-02,45-54,Prefer not to say,West
+C0997,2026-07-10,18-24,Male,North
+C0998,2026-09-11,35-44,Male,Central
+C0999,2026-09-11,55+,Male,Central
+C1000,2026-10-15,45-54,Male,North
+C1001,2026-10-20,45-54,Female,South
+C1002,2026-11-22,35-44,Male,West
+C1003,2026-07-31,25-34,Male,East
+C1004,2026-08-26,35-44,Female,South
+C1005,2026-10-24,45-54,Male,East
+C1006,2026-07-06,45-54,Male,North
+C1007,2026-08-09,25-34,Male,South
+C1008,2026-11-01,45-54,Male,South
+C1009,2026-07-17,35-44,Male,North
+C1010,2026-08-21,35-44,Female,West
+C1011,2026-07-13,18-24,Male,East
+C1012,2026-10-02,35-44,Prefer not to say,South
+C1013,2026-09-13,35-44,Male,Central
+C1014,2026-09-25,35-44,Male,South
+C1015,2026-08-01,45-54,Prefer not to say,South
+C1016,2026-08-22,35-44,Prefer not to say,West
+C1017,2026-10-15,45-54,Prefer not to say,North
+C1018,2026-11-21,55+,Male,North
+C1019,2026-09-16,55+,Female,North
+C1020,2026-11-06,45-54,Prefer not to say,North
+C1021,2026-09-14,25-34,Female,West
+C1022,2026-07-23,35-44,Male,West
+C1023,2026-11-21,35-44,Female,North
+C1024,2026-11-26,45-54,Prefer not to say,South
+C1025,2026-08-27,45-54,Prefer not to say,West
+C1026,2026-07-12,55+,Prefer not to say,South
+C1027,2026-07-18,45-54,Female,Central
+C1028,2026-11-25,55+,Prefer not to say,Central
+C1029,2026-09-28,18-24,Female,North
+C1030,2026-10-03,35-44,Prefer not to say,South
+C1031,2026-07-21,18-24,Female,East
+C1032,2026-08-22,25-34,Female,South
+C1033,2026-10-12,35-44,Female,North
+C1034,2026-08-18,25-34,Prefer not to say,South
+C1035,2026-11-24,45-54,Female,West
+C1036,2026-07-11,25-34,Female,South
+C1037,2026-11-17,55+,Prefer not to say,West
+C1038,2026-11-10,25-34,Prefer not to say,North
+C1039,2026-11-21,55+,Prefer not to say,South
+C1040,2026-11-13,35-44,Male,West
+C1041,2026-11-11,18-24,Male,West
+C1042,2026-10-19,45-54,Female,East
+C1043,2026-08-04,18-24,Prefer not to say,South
+C1044,2026-09-15,55+,Prefer not to say,North
+C1045,2026-08-17,35-44,Female,West
+C1046,2026-10-20,35-44,Male,East
+C1047,2026-08-08,45-54,Male,East
+C1048,2026-07-08,35-44,Male,Central
+C1049,2026-08-19,25-34,Male,Central
+C1050,2026-10-20,45-54,Female,West
+C1051,2026-09-22,55+,Female,Central
+C1052,2026-10-30,45-54,Male,East
+C1053,2026-11-23,25-34,Male,West
+C1054,2026-11-12,45-54,Prefer not to say,North
+C1055,2026-09-17,35-44,Male,Central
+C1056,2026-08-25,55+,Prefer not to say,East
+C1057,2026-09-02,18-24,Male,East
+C1058,2026-10-20,45-54,Male,South
+C1059,2026-08-20,55+,Male,North
+C1060,2026-08-09,45-54,Prefer not to say,North
+C1061,2026-11-20,55+,Male,East
+C1062,2026-10-08,45-54,Male,Central
+C1063,2026-07-17,18-24,Prefer not to say,Central
+C1064,2026-08-16,25-34,Prefer not to say,South
+C1065,2026-09-01,25-34,Male,West
+C1066,2026-11-21,45-54,Female,South
+C1067,2026-07-14,25-34,Male,South
+C1068,2026-08-28,45-54,Prefer not to say,Central
+C1069,2026-09-08,18-24,Male,North
+C1070,2026-08-22,55+,Male,West
+C1071,2026-09-16,55+,Male,West
+C1072,2026-11-06,25-34,Female,East
+C1073,2026-09-23,35-44,Prefer not to say,West
+C1074,2026-09-22,45-54,Prefer not to say,West
+C1075,2026-10-04,45-54,Prefer not to say,West
+C1076,2026-11-21,18-24,Female,East
+C1077,2026-09-25,18-24,Prefer not to say,South
+C1078,2026-10-10,45-54,Prefer not to say,West
+C1079,2026-09-05,35-44,Prefer not to say,East
+C1080,2026-08-24,45-54,Female,South
+C1081,2026-10-28,18-24,Male,West
+C1082,2026-07-28,35-44,Male,East
+C1083,2026-08-19,35-44,Male,South
+C1084,2026-07-11,18-24,Male,South
+C1085,2026-07-23,55+,Male,West
+C1086,2026-09-03,45-54,Prefer not to say,North
+C1087,2026-10-03,25-34,Female,South
+C1088,2026-09-22,18-24,Prefer not to say,Central
+C1089,2026-07-24,55+,Prefer not to say,East
+C1090,2026-07-06,35-44,Male,East
+C1091,2026-07-26,25-34,Female,East
+C1092,2026-11-18,35-44,Female,Central
+C1093,2026-07-23,35-44,Female,South
+C1094,2026-08-17,55+,Prefer not to say,West
+C1095,2026-10-17,45-54,Prefer not to say,South
+C1096,2026-08-17,45-54,Prefer not to say,Central
+C1097,2026-07-13,35-44,Female,South
+C1098,2026-08-22,55+,Female,North
+C1099,2026-10-11,18-24,Prefer not to say,Central
+C1100,2026-07-20,45-54,Female,North
+C1101,2026-10-02,25-34,Female,Central
+C1102,2026-07-21,55+,Male,East
+C1103,2026-10-26,35-44,Prefer not to say,West
+C1104,2026-10-01,55+,Prefer not to say,North
+C1105,2026-09-24,25-34,Male,North
+C1106,2026-08-16,35-44,Prefer not to say,Central
+C1107,2026-10-18,18-24,Female,East
+C1108,2026-08-25,35-44,Prefer not to say,South
+C1109,2026-07-12,35-44,Female,West
+C1110,2026-10-31,35-44,Female,South
+C1111,2026-07-11,45-54,Female,North
+C1112,2026-08-09,25-34,Female,West
+C1113,2026-11-18,55+,Male,East
+C1114,2026-09-25,25-34,Male,North
+C1115,2026-09-11,45-54,Female,South
+C1116,2026-07-12,35-44,Female,North
+C1117,2026-08-02,45-54,Male,South
+C1118,2026-07-23,25-34,Male,West
+C1119,2026-10-14,35-44,Male,North
+C1120,2026-08-14,25-34,Female,West
+C1121,2026-07-23,45-54,Male,East
+C1122,2026-11-08,18-24,Male,South
+C1123,2026-09-03,45-54,Male,East
+C1124,2026-09-25,25-34,Male,West
+C1125,2026-08-05,18-24,Prefer not to say,South
+C1126,2026-10-12,45-54,Prefer not to say,North
+C1127,2026-08-06,45-54,Prefer not to say,East
+C1128,2026-07-29,18-24,Female,East
+C1129,2026-10-20,55+,Male,North
+C1130,2026-10-18,55+,Female,East
+C1131,2026-10-27,18-24,Female,South
+C1132,2026-07-22,55+,Female,West
+C1133,2026-10-25,55+,Female,South
+C1134,2026-08-31,35-44,Female,Central
+C1135,2026-08-28,25-34,Female,East
+C1136,2026-09-08,55+,Male,Central
+C1137,2026-09-20,18-24,Male,East
+C1138,2026-10-30,18-24,Male,Central
+C1139,2026-09-14,25-34,Female,North
+C1140,2026-11-13,25-34,Female,South
+C1141,2026-09-08,25-34,Male,East
+C1142,2026-10-14,55+,Male,East
+C1143,2026-07-29,55+,Female,South
+C1144,2026-07-09,35-44,Female,North
+C1145,2026-09-21,35-44,Prefer not to say,Central
+C1146,2026-07-09,35-44,Female,North
+C1147,2026-08-26,25-34,Male,West
+C1148,2026-10-02,25-34,Female,West
+C1149,2026-08-21,25-34,Female,East
+C1150,2026-11-01,35-44,Prefer not to say,East
+C1151,2026-08-19,45-54,Prefer not to say,North
+C1152,2026-07-01,55+,Prefer not to say,East
+C1153,2026-07-31,45-54,Male,South
+C1154,2026-10-24,45-54,Female,South
+C1155,2026-07-25,45-54,Female,East
+C1156,2026-10-21,18-24,Female,South
+C1157,2026-09-26,55+,Female,Central
+C1158,2026-08-27,25-34,Prefer not to say,Central
+C1159,2026-10-29,18-24,Male,Central
+C1160,2026-10-04,45-54,Prefer not to say,North
+C1161,2026-10-25,45-54,Prefer not to say,West
+C1162,2026-10-04,18-24,Male,Central
+C1163,2026-07-25,45-54,Prefer not to say,South
+C1164,2026-11-22,25-34,Female,North
+C1165,2026-07-15,35-44,Prefer not to say,East
+C1166,2026-07-22,45-54,Prefer not to say,Central
+C1167,2026-08-18,25-34,Prefer not to say,North
+C1168,2026-11-02,55+,Female,West
+C1169,2026-09-12,45-54,Female,Central
+C1170,2026-09-04,35-44,Female,West
+C1171,2026-09-28,35-44,Male,South
+C1172,2026-09-24,55+,Female,East
+C1173,2026-10-28,18-24,Prefer not to say,West
+C1174,2026-10-06,35-44,Female,Central
+C1175,2026-09-05,45-54,Female,North
+C1176,2026-10-29,55+,Prefer not to say,East
+C1177,2026-10-17,25-34,Prefer not to say,South
+C1178,2026-10-24,18-24,Prefer not to say,South
+C1179,2026-10-14,18-24,Female,West
+C1180,2026-07-17,18-24,Prefer not to say,West
+C1181,2026-11-09,18-24,Prefer not to say,North
+C1182,2026-07-07,55+,Female,West
+C1183,2026-07-01,55+,Prefer not to say,North
+C1184,2026-09-10,55+,Female,Central
+C1185,2026-07-18,45-54,Female,North
+C1186,2026-08-20,25-34,Male,West
+C1187,2026-08-13,55+,Female,East
+C1188,2026-11-12,45-54,Male,West
+C1189,2026-11-04,18-24,Female,East
+C1190,2026-10-27,25-34,Prefer not to say,West
+C1191,2026-11-07,25-34,Female,North
+C1192,2026-11-22,35-44,Male,Central
+C1193,2026-10-11,35-44,Male,North
+C1194,2026-11-03,45-54,Female,East
+C1195,2026-10-01,45-54,Prefer not to say,Central
+C1196,2026-07-29,55+,Female,South
+C1197,2026-07-10,35-44,Female,South
+C1198,2026-10-03,45-54,Female,Central
+C1199,2026-10-26,35-44,Prefer not to say,Central
+C1200,2026-08-14,35-44,Female,North
+C1201,2026-11-04,35-44,Female,West
+C1202,2026-10-28,35-44,Prefer not to say,Central
+C1203,2026-10-15,45-54,Female,East
+C1204,2026-11-16,18-24,Prefer not to say,South
+C1205,2026-07-29,45-54,Prefer not to say,West
+C1206,2026-09-06,55+,Male,East
+C1207,2026-11-05,45-54,Prefer not to say,South
+C1208,2026-10-04,55+,Prefer not to say,East
+C1209,2026-11-18,35-44,Female,Central
+C1210,2026-08-30,35-44,Male,Central
+C1211,2026-11-26,55+,Male,North
+C1212,2026-08-15,35-44,Female,North
+C1213,2026-07-21,55+,Female,North
+C1214,2026-10-06,35-44,Male,Central
+C1215,2026-08-01,25-34,Male,West
+C1216,2026-07-29,55+,Female,Central
+C1217,2026-10-16,55+,Prefer not to say,South
+C1218,2026-08-23,35-44,Female,North
+C1219,2026-08-24,18-24,Female,Central
+C1220,2026-10-31,55+,Female,North
+C1221,2026-09-21,45-54,Prefer not to say,South
+C1222,2026-11-09,45-54,Male,South
+C1223,2026-08-30,35-44,Male,South
+C1224,2026-10-17,25-34,Female,South
+C1225,2026-09-09,55+,Male,East
+C1226,2026-10-31,55+,Female,North
+C1227,2026-08-17,55+,Female,West
+C1228,2026-08-20,35-44,Prefer not to say,East
+C1229,2026-08-01,45-54,Female,Central
+C1230,2026-08-12,25-34,Female,Central
+C1231,2026-08-26,18-24,Male,West
+C1232,2026-11-08,45-54,Male,North
+C1233,2026-09-01,55+,Prefer not to say,East
+C1234,2026-10-21,35-44,Prefer not to say,North
+C1235,2026-09-19,35-44,Male,West
+C1236,2026-11-01,55+,Female,West
+C1237,2026-09-15,25-34,Female,South
+C1238,2026-09-16,25-34,Male,East
+C1239,2026-08-22,35-44,Female,Central
+C1240,2026-07-20,18-24,Prefer not to say,East
+C1241,2026-11-04,35-44,Female,Central
+C1242,2026-08-06,45-54,Female,North
+C1243,2026-09-08,55+,Female,South
+C1244,2026-10-06,55+,Prefer not to say,East
+C1245,2026-10-24,35-44,Male,South
+C1246,2026-09-04,25-34,Female,Central
+C1247,2026-07-26,45-54,Prefer not to say,West
+C1248,2026-10-26,18-24,Prefer not to say,Central
+C1249,2026-09-19,35-44,Female,West
+C1250,2026-11-24,35-44,Female,Central
+C1251,2026-09-08,35-44,Female,North
+C1252,2026-07-18,18-24,Male,South
+C1253,2026-11-02,55+,Male,East
+C1254,2026-08-19,35-44,Male,Central
+C1255,2026-08-08,18-24,Female,North
+C1256,2026-11-12,18-24,Prefer not to say,Central
+C1257,2026-10-15,55+,Prefer not to say,North
+C1258,2026-08-24,25-34,Prefer not to say,Central
+C1259,2026-09-01,35-44,Male,East
+C1260,2026-08-23,55+,Male,Central
+C1261,2026-07-20,18-24,Female,East
+C1262,2026-11-05,18-24,Female,East
+C1263,2026-10-26,35-44,Male,North
+C1264,2026-07-24,45-54,Male,South
+C1265,2026-10-07,25-34,Male,East
+C1266,2026-09-21,35-44,Male,South
+C1267,2026-07-01,25-34,Female,South
+C1268,2026-09-26,35-44,Male,Central
+C1269,2026-08-13,25-34,Prefer not to say,South
+C1270,2026-11-23,35-44,Female,West
+C1271,2026-07-22,45-54,Female,East
+C1272,2026-08-28,35-44,Male,West
+C1273,2026-07-16,55+,Male,East
+C1274,2026-10-29,18-24,Prefer not to say,North
+C1275,2026-10-15,18-24,Female,Central
+C1276,2026-11-12,18-24,Female,West
+C1277,2026-11-25,35-44,Female,West
+C1278,2026-08-18,35-44,Female,North
+C1279,2026-09-05,18-24,Prefer not to say,South
+C1280,2026-07-01,25-34,Female,East
+C1281,2026-07-28,45-54,Male,West
+C1282,2026-07-18,45-54,Prefer not to say,North
+C1283,2026-09-25,45-54,Male,North
+C1284,2026-11-13,35-44,Male,North
+C1285,2026-08-19,25-34,Prefer not to say,South
+C1286,2026-10-20,45-54,Male,North
+C1287,2026-08-05,55+,Male,Central
+C1288,2026-07-18,35-44,Male,East
+C1289,2026-11-19,18-24,Male,Central
+C1290,2026-07-26,35-44,Prefer not to say,West
+C1291,2026-11-18,25-34,Prefer not to say,North
+C1292,2026-09-23,25-34,Prefer not to say,East
+C1293,2026-08-15,25-34,Female,Central
+C1294,2026-07-30,18-24,Prefer not to say,East
+C1295,2026-08-10,55+,Prefer not to say,Central
+C1296,2026-09-08,55+,Female,East
+C1297,2026-07-29,35-44,Female,North
+C1298,2026-08-25,55+,Male,West
+C1299,2026-11-25,55+,Female,Central
+C1300,2026-07-31,35-44,Female,West
+C1301,2026-09-21,25-34,Female,North
+C1302,2026-08-11,18-24,Female,West
+C1303,2026-09-16,18-24,Female,North
+C1304,2026-11-07,35-44,Prefer not to say,East
+C1305,2026-10-20,55+,Prefer not to say,Central
+C1306,2026-11-11,45-54,Male,East
+C1307,2026-09-15,55+,Female,Central
+C1308,2026-08-07,45-54,Female,Central
+C1309,2026-08-01,25-34,Prefer not to say,West
+C1310,2026-10-26,35-44,Prefer not to say,North
+C1311,2026-10-15,35-44,Male,Central
+C1312,2026-08-01,35-44,Female,South
+C1313,2026-07-30,55+,Prefer not to say,North
+C1314,2026-07-25,18-24,Female,North
+C1315,2026-11-10,35-44,Female,South
+C1316,2026-07-27,35-44,Male,Central
+C1317,2026-08-13,25-34,Male,South
+C1318,2026-11-17,35-44,Prefer not to say,North
+C1319,2026-08-02,25-34,Prefer not to say,East
+C1320,2026-10-10,25-34,Male,West
+C1321,2026-07-21,25-34,Female,North
+C1322,2026-08-05,35-44,Female,East
+C1323,2026-08-10,25-34,Prefer not to say,West
+C1324,2026-10-21,18-24,Male,West
+C1325,2026-10-07,18-24,Male,South
+C1326,2026-08-20,55+,Prefer not to say,West
+C1327,2026-10-18,45-54,Male,East
+C1328,2026-07-14,55+,Prefer not to say,West
+C1329,2026-11-02,25-34,Female,North
+C1330,2026-10-23,35-44,Female,East
+C1331,2026-07-14,18-24,Female,South
+C1332,2026-07-10,35-44,Female,North
+C1333,2026-11-04,25-34,Male,West
+C1334,2026-08-05,35-44,Male,South
+C1335,2026-10-19,35-44,Male,North
+C1336,2026-10-20,55+,Prefer not to say,South
+C1337,2026-08-15,45-54,Male,South
+C1338,2026-11-26,55+,Male,South
+C1339,2026-08-26,55+,Prefer not to say,North
+C1340,2026-11-19,25-34,Prefer not to say,Central
+C1341,2026-08-18,45-54,Prefer not to say,South
+C1342,2026-08-12,45-54,Prefer not to say,West
+C1343,2026-11-10,18-24,Male,North
+C1344,2026-09-09,25-34,Prefer not to say,South
+C1345,2026-09-29,45-54,Prefer not to say,South
+C1346,2026-07-21,55+,Prefer not to say,Central
+C1347,2026-10-03,55+,Female,North
+C1348,2026-07-21,45-54,Prefer not to say,Central
+C1349,2026-08-17,18-24,Prefer not to say,South
+C1350,2026-09-20,25-34,Male,West
+C1351,2026-07-15,35-44,Female,West
+C1352,2026-07-01,45-54,Male,East
+C1353,2026-07-02,55+,Prefer not to say,East
+C1354,2026-11-22,35-44,Prefer not to say,Central
+C1355,2026-10-11,25-34,Male,West
+C1356,2026-10-05,55+,Male,West
+C1357,2026-08-02,18-24,Female,Central
+C1358,2026-07-03,35-44,Prefer not to say,East
+C1359,2026-07-19,55+,Male,Central
+C1360,2026-09-10,35-44,Male,South
+C1361,2026-08-11,35-44,Prefer not to say,East
+C1362,2026-09-25,18-24,Female,South
+C1363,2026-07-09,35-44,Prefer not to say,North
+C1364,2026-09-28,35-44,Female,Central
+C1365,2026-10-14,25-34,Prefer not to say,East
+C1366,2026-07-29,18-24,Female,Central
+C1367,2026-10-14,45-54,Male,East
+C1368,2026-07-28,25-34,Male,South
+C1369,2026-10-11,35-44,Prefer not to say,Central
+C1370,2026-07-03,35-44,Prefer not to say,North
+C1371,2026-09-03,18-24,Male,South
+C1372,2026-11-05,25-34,Female,South
+C1373,2026-09-05,25-34,Male,West
+C1374,2026-11-06,45-54,Female,South
+C1375,2026-08-14,25-34,Prefer not to say,Central
+C1376,2026-07-29,25-34,Prefer not to say,North
+C1377,2026-10-21,18-24,Prefer not to say,Central
+C1378,2026-11-23,25-34,Male,East
+C1379,2026-10-22,35-44,Female,North
+C1380,2026-07-19,25-34,Male,East
+C1381,2026-11-26,45-54,Female,West
+C1382,2026-08-25,18-24,Female,East
+C1383,2026-08-22,25-34,Female,North
+C1384,2026-11-14,55+,Male,South
+C1385,2026-08-31,18-24,Male,East
+C1386,2026-11-26,35-44,Prefer not to say,North
+C1387,2026-07-07,25-34,Prefer not to say,North
+C1388,2026-11-08,18-24,Female,West
+C1389,2026-09-15,55+,Male,North
+C1390,2026-07-10,18-24,Female,North
+C1391,2026-11-06,25-34,Male,North
+C1392,2026-09-03,18-24,Prefer not to say,North
+C1393,2026-10-23,18-24,Female,Central
+C1394,2026-09-06,45-54,Female,West
+C1395,2026-11-18,45-54,Prefer not to say,West
+C1396,2026-08-19,25-34,Female,East
+C1397,2026-11-23,55+,Prefer not to say,West
+C1398,2026-07-03,25-34,Prefer not to say,South
+C1399,2026-07-06,35-44,Female,East
+C1400,2026-11-04,35-44,Female,South
+C1401,2026-09-17,35-44,Female,North
+C1402,2026-07-12,45-54,Male,North
+C1403,2026-07-12,18-24,Male,West
+C1404,2026-07-01,18-24,Female,East
+C1405,2026-07-29,25-34,Female,South
+C1406,2026-09-25,35-44,Male,West
+C1407,2026-11-24,35-44,Female,North
+C1408,2026-10-29,25-34,Prefer not to say,South
+C1409,2026-08-29,55+,Male,West
+C1410,2026-10-27,25-34,Prefer not to say,North
+C1411,2026-11-03,45-54,Female,Central
+C1412,2026-11-21,55+,Prefer not to say,West
+C1413,2026-11-19,45-54,Male,West
+C1414,2026-10-30,45-54,Male,North
+C1415,2026-08-25,55+,Male,West
+C1416,2026-07-20,25-34,Female,Central
+C1417,2026-11-15,18-24,Prefer not to say,Central
+C1418,2026-08-27,55+,Male,South
+C1419,2026-07-11,35-44,Prefer not to say,West
+C1420,2026-08-27,18-24,Male,East
+C1421,2026-07-30,55+,Male,East
+C1422,2026-09-26,55+,Male,Central
+C1423,2026-07-22,45-54,Prefer not to say,South
+C1424,2026-09-10,18-24,Prefer not to say,Central
+C1425,2026-07-08,45-54,Prefer not to say,West
+C1426,2026-09-18,18-24,Female,North
+C1427,2026-09-28,45-54,Male,Central
+C1428,2026-09-23,55+,Female,Central
+C1429,2026-07-28,55+,Prefer not to say,East
+C1430,2026-08-31,45-54,Prefer not to say,South
+C1431,2026-07-09,35-44,Male,East
+C1432,2026-08-18,25-34,Prefer not to say,South
+C1433,2026-10-23,18-24,Prefer not to say,Central
+C1434,2026-09-19,35-44,Female,West
+C1435,2026-08-28,55+,Male,West
+C1436,2026-10-25,18-24,Female,North
+C1437,2026-10-28,18-24,Male,South
+C1438,2026-10-26,55+,Prefer not to say,East
+C1439,2026-08-17,18-24,Prefer not to say,East
+C1440,2026-09-30,35-44,Prefer not to say,East
+C1441,2026-08-26,35-44,Male,East
+C1442,2026-07-10,45-54,Prefer not to say,Central
+C1443,2026-10-14,45-54,Male,Central
+C1444,2026-11-12,55+,Prefer not to say,South
+C1445,2026-08-04,18-24,Female,North
+C1446,2026-10-25,25-34,Prefer not to say,North
+C1447,2026-09-09,18-24,Prefer not to say,East
+C1448,2026-11-04,18-24,Female,South
+C1449,2026-09-14,45-54,Female,West
+C1450,2026-10-02,45-54,Prefer not to say,North
+C1451,2026-09-10,18-24,Female,East
+C1452,2026-11-19,45-54,Male,West
+C1453,2026-07-21,55+,Male,East
+C1454,2026-09-08,25-34,Male,South
+C1455,2026-09-13,35-44,Male,North
+C1456,2026-09-05,55+,Prefer not to say,West
+C1457,2026-10-29,18-24,Female,North
+C1458,2026-07-31,55+,Male,West
+C1459,2026-07-04,25-34,Female,South
+C1460,2026-09-22,45-54,Female,East
+C1461,2026-09-14,25-34,Female,West
+C1462,2026-09-01,25-34,Male,West
+C1463,2026-10-17,55+,Prefer not to say,Central
+C1464,2026-11-01,35-44,Prefer not to say,North
+C1465,2026-08-24,18-24,Male,South
+C1466,2026-11-09,18-24,Male,West
+C1467,2026-11-06,55+,Prefer not to say,South
+C1468,2026-09-05,45-54,Prefer not to say,South
+C1469,2026-09-11,45-54,Female,East
+C1470,2026-11-13,18-24,Female,South
+C1471,2026-07-16,18-24,Prefer not to say,West
+C1472,2026-09-12,25-34,Female,South
+C1473,2026-07-22,35-44,Male,West
+C1474,2026-10-04,18-24,Prefer not to say,North
+C1475,2026-08-12,45-54,Male,Central
+C1476,2026-07-21,45-54,Female,North
+C1477,2026-09-01,35-44,Female,West
+C1478,2026-09-08,25-34,Prefer not to say,South
+C1479,2026-09-29,45-54,Prefer not to say,West
+C1480,2026-09-14,18-24,Prefer not to say,East
+C1481,2026-08-23,45-54,Female,East
+C1482,2026-07-24,25-34,Female,North
+C1483,2026-07-19,35-44,Male,North
+C1484,2026-07-18,18-24,Prefer not to say,North
+C1485,2026-08-05,18-24,Male,North
+C1486,2026-11-03,18-24,Female,West
+C1487,2026-11-27,25-34,Female,North
+C1488,2026-10-01,25-34,Female,North
+C1489,2026-09-18,35-44,Female,West
+C1490,2026-10-21,25-34,Prefer not to say,East
+C1491,2026-08-21,55+,Male,South
+C1492,2026-09-19,45-54,Female,North
+C1493,2026-10-13,18-24,Prefer not to say,East
+C1494,2026-11-24,55+,Male,East
+C1495,2026-08-06,45-54,Prefer not to say,North
+C1496,2026-11-14,35-44,Male,East
+C1497,2026-08-23,45-54,Male,Central
+C1498,2026-08-09,45-54,Prefer not to say,South
+C1499,2026-10-03,18-24,Prefer not to say,North
+C1500,2026-09-08,55+,Prefer not to say,East
+C1501,2026-07-09,25-34,Female,South
+C1502,2026-08-19,35-44,Prefer not to say,East
+C1503,2026-08-28,35-44,Prefer not to say,North
+C1504,2026-08-22,35-44,Prefer not to say,South
+C1505,2026-11-08,55+,Female,East
+C1506,2026-07-08,45-54,Male,North
+C1507,2026-11-05,55+,Female,Central
+C1508,2026-10-24,25-34,Male,East
+C1509,2026-09-14,25-34,Male,South
+C1510,2026-09-10,45-54,Male,West
+C1511,2026-11-01,35-44,Male,East
+C1512,2026-11-22,45-54,Male,Central
+C1513,2026-09-01,18-24,Male,West
+C1514,2026-09-11,18-24,Female,West
+C1515,2026-07-03,45-54,Prefer not to say,Central
+C1516,2026-11-08,25-34,Male,East
+C1517,2026-11-17,45-54,Female,West
+C1518,2026-10-02,35-44,Female,West
+C1519,2026-10-27,55+,Female,Central
+C1520,2026-09-29,35-44,Prefer not to say,West
+C1521,2026-07-06,55+,Female,South
+C1522,2026-08-01,18-24,Male,North
+C1523,2026-10-28,25-34,Male,East
+C1524,2026-09-29,25-34,Prefer not to say,West
+C1525,2026-07-12,18-24,Male,North
+C1526,2026-11-24,55+,Female,South
+C1527,2026-09-03,45-54,Female,West
+C1528,2026-11-22,25-34,Male,South
+C1529,2026-10-01,18-24,Prefer not to say,West
+C1530,2026-09-14,25-34,Female,West
+C1531,2026-07-15,25-34,Female,East
+C1532,2026-07-16,25-34,Prefer not to say,Central
+C1533,2026-09-15,25-34,Prefer not to say,Central
+C1534,2026-11-08,55+,Male,East
+C1535,2026-08-09,45-54,Prefer not to say,Central
+C1536,2026-09-30,25-34,Prefer not to say,South
+C1537,2026-10-18,18-24,Male,Central
+C1538,2026-09-06,55+,Male,East
+C1539,2026-09-25,35-44,Prefer not to say,East
+C1540,2026-09-29,45-54,Prefer not to say,Central
+C1541,2026-07-30,25-34,Male,South
+C1542,2026-07-28,45-54,Prefer not to say,East
+C1543,2026-08-06,45-54,Prefer not to say,North
+C1544,2026-11-13,25-34,Female,South
+C1545,2026-09-10,18-24,Female,South
+C1546,2026-08-23,45-54,Prefer not to say,South
+C1547,2026-10-30,45-54,Female,West
+C1548,2026-10-13,35-44,Prefer not to say,North
+C1549,2026-09-09,18-24,Male,West
+C1550,2026-09-25,35-44,Female,North
+C1551,2026-08-11,55+,Male,South
+C1552,2026-11-07,18-24,Female,North
+C1553,2026-09-28,18-24,Female,South
+C1554,2026-11-14,55+,Female,North
+C1555,2026-10-31,35-44,Prefer not to say,East
+C1556,2026-09-30,25-34,Prefer not to say,South
+C1557,2026-10-22,45-54,Male,West
+C1558,2026-09-08,25-34,Female,Central
+C1559,2026-08-23,35-44,Prefer not to say,East
+C1560,2026-08-25,25-34,Prefer not to say,West
+C1561,2026-08-19,25-34,Prefer not to say,West
+C1562,2026-11-11,25-34,Prefer not to say,West
+C1563,2026-11-26,25-34,Female,East
+C1564,2026-07-31,18-24,Female,South
+C1565,2026-10-06,18-24,Male,West
+C1566,2026-08-12,18-24,Male,South
+C1567,2026-09-03,55+,Male,Central
+C1568,2026-10-06,35-44,Female,West
+C1569,2026-07-18,35-44,Male,West
+C1570,2026-09-02,18-24,Female,East
+C1571,2026-08-16,18-24,Prefer not to say,Central
+C1572,2026-11-21,25-34,Female,Central
+C1573,2026-10-25,25-34,Female,Central
+C1574,2026-10-01,18-24,Male,Central
+C1575,2026-08-23,25-34,Male,West
+C1576,2026-08-28,18-24,Female,Central
+C1577,2026-10-30,25-34,Male,North
+C1578,2026-09-18,55+,Male,North
+C1579,2026-08-10,45-54,Prefer not to say,East
+C1580,2026-07-07,55+,Female,West
+C1581,2026-11-17,18-24,Female,Central
+C1582,2026-07-16,45-54,Female,South
+C1583,2026-07-08,55+,Prefer not to say,West
+C1584,2026-07-22,25-34,Female,Central
+C1585,2026-11-27,35-44,Male,South
+C1586,2026-09-01,55+,Prefer not to say,East
+C1587,2026-11-23,45-54,Female,South
+C1588,2026-08-30,25-34,Female,East
+C1589,2026-11-10,45-54,Male,North
+C1590,2026-10-26,35-44,Male,Central
+C1591,2026-07-08,25-34,Female,South
+C1592,2026-07-04,55+,Prefer not to say,Central
+C1593,2026-07-15,45-54,Female,Central
+C1594,2026-09-11,18-24,Male,East
+C1595,2026-07-04,25-34,Prefer not to say,East
+C1596,2026-08-01,25-34,Female,North
+C1597,2026-10-22,55+,Prefer not to say,Central
+C1598,2026-10-17,45-54,Prefer not to say,East
+C1599,2026-11-10,45-54,Male,East
+C1600,2026-11-16,35-44,Female,Central
+C1601,2026-09-25,55+,Female,East
+C1602,2026-09-24,18-24,Male,Central
+C1603,2026-10-21,25-34,Female,West
+C1604,2026-10-14,55+,Male,West
+C1605,2026-08-02,45-54,Female,Central
+C1606,2026-10-18,35-44,Female,Central
+C1607,2026-08-01,35-44,Prefer not to say,South
+C1608,2026-07-11,35-44,Female,Central
+C1609,2026-09-08,35-44,Female,East
+C1610,2026-10-11,25-34,Female,West
+C1611,2026-10-07,35-44,Prefer not to say,South
+C1612,2026-09-14,55+,Female,Central
+C1613,2026-09-12,18-24,Male,West
+C1614,2026-10-23,35-44,Female,West
+C1615,2026-11-20,55+,Prefer not to say,West
+C1616,2026-11-22,55+,Prefer not to say,East
+C1617,2026-11-14,35-44,Male,East
+C1618,2026-07-20,18-24,Female,West
+C1619,2026-10-20,45-54,Prefer not to say,South
+C1620,2026-10-18,35-44,Female,Central
+C1621,2026-10-23,55+,Female,Central
+C1622,2026-10-24,55+,Prefer not to say,East
+C1623,2026-08-25,45-54,Male,North
+C1624,2026-07-19,25-34,Male,Central
+C1625,2026-08-24,18-24,Male,East
+C1626,2026-09-30,55+,Prefer not to say,South
+C1627,2026-09-05,25-34,Male,Central
+C1628,2026-07-04,35-44,Male,North
+C1629,2026-09-13,18-24,Male,Central
+C1630,2026-08-21,45-54,Male,North
+C1631,2026-11-08,45-54,Male,West
+C1632,2026-11-26,25-34,Male,Central
+C1633,2026-08-05,18-24,Female,South
+C1634,2026-10-29,25-34,Male,West
+C1635,2026-07-31,25-34,Male,West
+C1636,2026-11-01,25-34,Female,South
+C1637,2026-09-02,18-24,Female,Central
+C1638,2026-09-26,45-54,Prefer not to say,Central
+C1639,2026-11-25,35-44,Prefer not to say,North
+C1640,2026-10-03,25-34,Female,East
+C1641,2026-08-16,35-44,Male,West
+C1642,2026-07-06,18-24,Prefer not to say,Central
+C1643,2026-07-01,35-44,Male,Central
+C1644,2026-08-24,45-54,Prefer not to say,Central
+C1645,2026-07-12,25-34,Female,South
+C1646,2026-09-07,18-24,Female,West
+C1647,2026-09-25,25-34,Female,Central
+C1648,2026-11-09,35-44,Male,Central
+C1649,2026-09-07,55+,Prefer not to say,Central
+C1650,2026-10-22,45-54,Female,West
+C1651,2026-07-12,45-54,Female,North
+C1652,2026-11-05,35-44,Male,North
+C1653,2026-09-10,25-34,Female,West
+C1654,2026-07-09,18-24,Male,Central
+C1655,2026-07-21,45-54,Male,East
+C1656,2026-08-20,45-54,Prefer not to say,West
+C1657,2026-07-22,45-54,Female,Central
+C1658,2026-10-26,45-54,Female,North
+C1659,2026-09-30,45-54,Prefer not to say,West
+C1660,2026-09-16,18-24,Prefer not to say,East
+C1661,2026-09-04,35-44,Prefer not to say,West
+C1662,2026-10-18,18-24,Prefer not to say,South
+C1663,2026-09-13,55+,Prefer not to say,West
+C1664,2026-09-17,18-24,Male,South
+C1665,2026-11-03,55+,Male,South
+C1666,2026-07-17,35-44,Female,Central
+C1667,2026-11-06,55+,Male,South
+C1668,2026-10-16,25-34,Prefer not to say,East
+C1669,2026-11-24,25-34,Female,South
+C1670,2026-08-04,25-34,Prefer not to say,South
+C1671,2026-11-25,55+,Prefer not to say,South
+C1672,2026-08-01,35-44,Prefer not to say,North
+C1673,2026-07-04,45-54,Prefer not to say,North
+C1674,2026-08-24,25-34,Prefer not to say,North
+C1675,2026-09-13,35-44,Prefer not to say,East
+C1676,2026-09-28,45-54,Male,West
+C1677,2026-07-19,35-44,Prefer not to say,East
+C1678,2026-07-29,45-54,Prefer not to say,West
+C1679,2026-10-08,18-24,Male,East
+C1680,2026-10-15,55+,Prefer not to say,South
+C1681,2026-11-25,18-24,Female,West
+C1682,2026-09-18,35-44,Male,West
+C1683,2026-11-03,45-54,Male,East
+C1684,2026-10-30,45-54,Male,West
+C1685,2026-09-03,45-54,Male,North
+C1686,2026-11-21,35-44,Female,North
+C1687,2026-11-06,35-44,Prefer not to say,South
+C1688,2026-10-20,35-44,Male,East
+C1689,2026-08-17,18-24,Male,East
+C1690,2026-07-16,35-44,Prefer not to say,Central
+C1691,2026-11-15,55+,Male,Central
+C1692,2026-08-04,55+,Prefer not to say,Central
+C1693,2026-11-02,25-34,Male,East
+C1694,2026-09-15,35-44,Female,South
+C1695,2026-07-02,45-54,Female,Central
+C1696,2026-10-01,18-24,Male,Central
+C1697,2026-08-13,55+,Prefer not to say,West
+C1698,2026-08-29,55+,Male,East
+C1699,2026-07-09,18-24,Male,West
+C1700,2026-08-05,35-44,Male,West
+C1701,2026-08-21,55+,Female,South
+C1702,2026-08-11,18-24,Male,South
+C1703,2026-07-15,25-34,Female,Central
+C1704,2026-08-18,55+,Female,South
+C1705,2026-07-06,18-24,Female,North
+C1706,2026-11-08,35-44,Prefer not to say,North
+C1707,2026-10-11,35-44,Male,Central
+C1708,2026-11-14,35-44,Male,Central
+C1709,2026-11-05,35-44,Male,South
+C1710,2026-09-13,35-44,Female,Central
+C1711,2026-10-09,18-24,Male,North
+C1712,2026-09-09,25-34,Male,Central
+C1713,2026-10-26,35-44,Male,West
+C1714,2026-11-11,25-34,Male,North
+C1715,2026-10-24,55+,Prefer not to say,South
+C1716,2026-11-06,45-54,Prefer not to say,North
+C1717,2026-08-31,35-44,Male,West
+C1718,2026-10-17,55+,Male,South
+C1719,2026-08-22,55+,Prefer not to say,Central
+C1720,2026-09-29,55+,Male,East
+C1721,2026-07-18,45-54,Prefer not to say,Central
+C1722,2026-08-06,35-44,Prefer not to say,West
+C1723,2026-07-12,18-24,Prefer not to say,Central
+C1724,2026-11-27,18-24,Prefer not to say,West
+C1725,2026-08-03,35-44,Male,Central
+C1726,2026-09-17,45-54,Male,South
+C1727,2026-08-20,45-54,Prefer not to say,Central
+C1728,2026-09-11,25-34,Male,Central
+C1729,2026-10-01,18-24,Male,Central
+C1730,2026-10-26,25-34,Male,West
+C1731,2026-11-22,55+,Female,North
+C1732,2026-07-02,25-34,Prefer not to say,West
+C1733,2026-07-20,55+,Female,Central
+C1734,2026-09-19,25-34,Female,South
+C1735,2026-11-16,45-54,Female,North
+C1736,2026-08-02,18-24,Male,North
+C1737,2026-11-24,18-24,Prefer not to say,East
+C1738,2026-09-29,45-54,Female,East
+C1739,2026-09-08,45-54,Prefer not to say,South
+C1740,2026-08-08,18-24,Female,West
+C1741,2026-09-25,45-54,Male,South
+C1742,2026-08-30,55+,Female,East
+C1743,2026-07-10,55+,Female,East
+C1744,2026-08-18,25-34,Male,South
+C1745,2026-09-21,25-34,Prefer not to say,Central
+C1746,2026-07-24,35-44,Female,South
+C1747,2026-07-14,45-54,Male,East
+C1748,2026-11-12,35-44,Female,East
+C1749,2026-08-10,18-24,Female,East
+C1750,2026-11-13,35-44,Female,East
+C1751,2026-07-13,45-54,Male,East
+C1752,2026-07-04,55+,Female,South
+C1753,2026-08-17,55+,Female,Central
+C1754,2026-11-22,55+,Male,North
+C1755,2026-08-05,35-44,Male,North
+C1756,2026-09-16,25-34,Female,North
+C1757,2026-07-04,45-54,Male,North
+C1758,2026-11-20,25-34,Female,East
+C1759,2026-08-31,25-34,Male,West
+C1760,2026-08-26,45-54,Male,East
+C1761,2026-09-26,35-44,Male,West
+C1762,2026-07-17,45-54,Female,West
+C1763,2026-09-30,45-54,Female,East
+C1764,2026-09-21,35-44,Prefer not to say,North
+C1765,2026-09-12,45-54,Female,South
+C1766,2026-10-08,45-54,Male,North
+C1767,2026-09-25,25-34,Prefer not to say,South
+C1768,2026-11-25,25-34,Prefer not to say,East
+C1769,2026-08-15,45-54,Prefer not to say,North
+C1770,2026-08-05,18-24,Male,North
+C1771,2026-07-26,25-34,Male,South
+C1772,2026-09-02,55+,Female,West
+C1773,2026-08-10,45-54,Prefer not to say,Central
+C1774,2026-09-23,55+,Female,East
+C1775,2026-10-23,45-54,Female,South
+C1776,2026-11-22,18-24,Female,Central
+C1777,2026-07-12,25-34,Male,North
+C1778,2026-07-29,25-34,Male,East
+C1779,2026-09-01,55+,Prefer not to say,East
+C1780,2026-09-19,45-54,Prefer not to say,North
+C1781,2026-09-12,25-34,Female,North
+C1782,2026-10-16,25-34,Female,North
+C1783,2026-10-09,35-44,Prefer not to say,North
+C1784,2026-07-12,18-24,Prefer not to say,East
+C1785,2026-09-03,25-34,Male,East
+C1786,2026-08-25,45-54,Male,East
+C1787,2026-09-03,25-34,Female,Central
+C1788,2026-10-16,55+,Female,East
+C1789,2026-08-07,25-34,Prefer not to say,North
+C1790,2026-07-15,45-54,Prefer not to say,South
+C1791,2026-08-12,45-54,Male,Central
+C1792,2026-08-31,35-44,Female,West
+C1793,2026-11-08,18-24,Prefer not to say,Central
+C1794,2026-10-23,55+,Male,West
+C1795,2026-07-28,18-24,Prefer not to say,South
+C1796,2026-08-18,55+,Male,South
+C1797,2026-07-11,18-24,Female,Central
+C1798,2026-07-12,18-24,Prefer not to say,West
+C1799,2026-08-24,25-34,Male,Central
+C1800,2026-10-17,45-54,Male,East

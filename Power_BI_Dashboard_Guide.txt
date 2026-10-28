@@ -1,0 +1,31 @@
+POWER BI DASHBOARD BUILD GUIDE
+All data is synthetic/demo data.
+
+1) Get Data > Text/CSV: import campaign_performance.csv, orders.csv, customers.csv, demo_survey_responses_synthetic.csv.
+2) Set data types: date/order_date as Date; INR columns as Decimal Number; counts as Whole Number.
+3) Relationships:
+   - customers[customer_id] 1:* orders[customer_id]
+   - Keep campaign_performance separate from orders: these are independently generated demo datasets, not row-level linked.
+4) Create measures (DAX):
+
+Ad Spend = SUM(campaign_performance[spend_inr])
+Campaign Revenue = SUM(campaign_performance[revenue_inr])
+Impressions = SUM(campaign_performance[impressions])
+Clicks = SUM(campaign_performance[clicks])
+Campaign Orders = SUM(campaign_performance[orders])
+CTR = DIVIDE([Clicks],[Impressions])
+CPC = DIVIDE([Ad Spend],[Clicks])
+CPA = DIVIDE([Ad Spend],[Campaign Orders])
+Campaign CVR = DIVIDE([Campaign Orders],SUM(campaign_performance[sessions]))
+ROAS = DIVIDE([Campaign Revenue],[Ad Spend])
+Delivered Revenue = CALCULATE(SUM(orders[net_revenue_inr]),orders[order_status]="Delivered")
+Delivered Orders = CALCULATE(COUNTROWS(orders),orders[order_status]="Delivered")
+AOV = DIVIDE([Delivered Revenue],[Delivered Orders])
+
+5) Suggested report pages:
+   PAGE 1 - Executive Overview: KPI cards (Ad Spend, Campaign Revenue, ROAS, CTR, Delivered Revenue), date slicer.
+   PAGE 2 - Channel & Campaign: bar chart ROAS by channel, spend vs revenue, campaign table, CTR/CPC/CPA.
+   PAGE 3 - Customer & Product: revenue by category, region, device, delivered vs returned/cancelled.
+   PAGE 4 - Customer Voice: survey discovery channel, purchase driver, promotion preference, cart abandonment reason.
+6) Use consistent formatting, clear INR labels, titles, and slicers for date/channel/category.
+7) Add a note on the report: 'Synthetic demonstration data; not actual company performance.'

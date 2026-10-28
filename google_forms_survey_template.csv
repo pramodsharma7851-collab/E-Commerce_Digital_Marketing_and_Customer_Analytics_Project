@@ -1,0 +1,11 @@
+question_id,question,question_type,response_options
+Q1,How often do you shop online?,Multiple choice,Weekly / Monthly / Every 2-3 months / Rarely
+Q2,Which product category do you buy most often?,Multiple choice,Fashion / Beauty / Home / Electronics / Fitness
+Q3,Where do you usually discover new online stores?,Multiple choice,Instagram / Google Search / YouTube / Email / Friends
+Q4,What most influences your purchase decision?,Multiple choice,Price / Reviews / Delivery speed / Brand / Product quality
+Q5,Which promotion is most likely to make you purchase?,Multiple choice,Percentage discount / Free delivery / Bundle offer / Cashback / None
+Q6,How likely are you to purchase from a brand after seeing a social media ad?,Linear scale 1-5,1 = Very unlikely; 5 = Very likely
+Q7,What makes you abandon an online cart?,Multiple choice,High delivery fee / High price / Complicated checkout / Payment concern / Just browsing
+Q8,Preferred device for online shopping?,Multiple choice,Mobile / Desktop / Tablet
+Q9,How important are customer reviews?,Linear scale 1-5,1 = Not important; 5 = Extremely important
+Q10,What would make you shop again from the same store?,Multiple choice,Good product quality / Fast delivery / Loyalty rewards / Easy returns / Personalised offers

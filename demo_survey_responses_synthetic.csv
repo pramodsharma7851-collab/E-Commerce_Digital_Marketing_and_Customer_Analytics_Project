@@ -1,0 +1,121 @@
+response_id,shopping_frequency,top_category,discovery_channel,purchase_driver,preferred_promotion,social_ad_purchase_likelihood_1_5,cart_abandon_reason,preferred_device,review_importance_1_5,repurchase_driver
+S001,Every 2-3 months,Electronics,Google Search,Reviews,Free delivery,4,High delivery fee,Mobile,2,Loyalty rewards
+S002,Every 2-3 months,Electronics,YouTube,Price,Bundle offer,5,High price,Desktop,5,Easy returns
+S003,Every 2-3 months,Fashion,Instagram,Brand,Bundle offer,3,High price,Mobile,4,Good product quality
+S004,Every 2-3 months,Fashion,Email,Product quality,Free delivery,4,High price,Mobile,5,Personalised offers
+S005,Rarely,Home,Email,Price,Cashback,4,Payment concern,Desktop,5,Easy returns
+S006,Every 2-3 months,Beauty,Instagram,Product quality,Bundle offer,4,Complicated checkout,Mobile,5,Fast delivery
+S007,Monthly,Home,Instagram,Price,Percentage discount,5,Complicated checkout,Desktop,3,Fast delivery
+S008,Monthly,Electronics,Google Search,Price,Percentage discount,2,High price,Mobile,3,Easy returns
+S009,Weekly,Fitness,Instagram,Brand,Percentage discount,4,High delivery fee,Mobile,5,Loyalty rewards
+S010,Monthly,Home,Friends,Delivery speed,Bundle offer,2,Complicated checkout,Mobile,5,Loyalty rewards
+S011,Rarely,Beauty,Google Search,Price,Cashback,4,Complicated checkout,Desktop,3,Good product quality
+S012,Rarely,Fitness,Friends,Delivery speed,Bundle offer,4,High price,Mobile,2,Easy returns
+S013,Monthly,Home,Instagram,Reviews,Free delivery,4,Complicated checkout,Mobile,5,Good product quality
+S014,Every 2-3 months,Beauty,Google Search,Reviews,Cashback,4,Just browsing,Mobile,4,Personalised offers
+S015,Monthly,Home,Email,Reviews,Free delivery,5,High price,Mobile,5,Fast delivery
+S016,Monthly,Home,Google Search,Product quality,Free delivery,4,High delivery fee,Desktop,4,Personalised offers
+S017,Monthly,Electronics,Friends,Brand,Percentage discount,2,Payment concern,Mobile,4,Loyalty rewards
+S018,Rarely,Electronics,Google Search,Price,Percentage discount,5,Complicated checkout,Mobile,3,Good product quality
+S019,Rarely,Fitness,Google Search,Reviews,Free delivery,4,Payment concern,Mobile,5,Personalised offers
+S020,Monthly,Home,Friends,Delivery speed,None,5,Payment concern,Mobile,5,Personalised offers
+S021,Every 2-3 months,Fashion,Google Search,Reviews,Bundle offer,3,High delivery fee,Mobile,4,Personalised offers
+S022,Monthly,Beauty,Email,Delivery speed,Free delivery,2,Complicated checkout,Mobile,4,Personalised offers
+S023,Weekly,Beauty,YouTube,Brand,Percentage discount,5,Complicated checkout,Desktop,5,Personalised offers
+S024,Weekly,Fashion,Email,Product quality,Percentage discount,5,High delivery fee,Mobile,5,Loyalty rewards
+S025,Monthly,Fashion,Instagram,Price,Free delivery,3,High delivery fee,Desktop,4,Easy returns
+S026,Monthly,Fashion,Instagram,Price,Free delivery,2,High price,Mobile,3,Personalised offers
+S027,Rarely,Electronics,Instagram,Product quality,Percentage discount,3,High delivery fee,Desktop,4,Easy returns
+S028,Rarely,Home,Google Search,Delivery speed,Bundle offer,1,High delivery fee,Mobile,5,Good product quality
+S029,Rarely,Electronics,Email,Product quality,Cashback,5,High delivery fee,Mobile,4,Fast delivery
+S030,Every 2-3 months,Beauty,Email,Delivery speed,Cashback,2,Just browsing,Mobile,5,Loyalty rewards
+S031,Rarely,Fitness,Instagram,Reviews,Bundle offer,5,Complicated checkout,Mobile,3,Fast delivery
+S032,Monthly,Fashion,Email,Price,Bundle offer,4,Payment concern,Mobile,5,Personalised offers
+S033,Monthly,Home,YouTube,Delivery speed,Percentage discount,5,High delivery fee,Mobile,5,Good product quality
+S034,Every 2-3 months,Fitness,Email,Price,Percentage discount,2,High delivery fee,Mobile,5,Fast delivery
+S035,Rarely,Electronics,Instagram,Price,Cashback,5,High delivery fee,Mobile,4,Personalised offers
+S036,Every 2-3 months,Home,Instagram,Product quality,Bundle offer,2,High price,Mobile,3,Good product quality
+S037,Rarely,Electronics,Google Search,Price,Free delivery,5,Payment concern,Mobile,4,Fast delivery
+S038,Weekly,Beauty,Instagram,Reviews,Free delivery,5,Payment concern,Mobile,4,Good product quality
+S039,Monthly,Beauty,Instagram,Delivery speed,Percentage discount,4,Just browsing,Mobile,5,Good product quality
+S040,Every 2-3 months,Fashion,Google Search,Price,Bundle offer,3,High delivery fee,Mobile,2,Loyalty rewards
+S041,Every 2-3 months,Fashion,Google Search,Reviews,Percentage discount,3,Just browsing,Mobile,4,Easy returns
+S042,Every 2-3 months,Electronics,Google Search,Reviews,Bundle offer,4,Complicated checkout,Tablet,5,Easy returns
+S043,Every 2-3 months,Home,Email,Reviews,Free delivery,3,Complicated checkout,Mobile,4,Fast delivery
+S044,Rarely,Beauty,Google Search,Delivery speed,Free delivery,5,High delivery fee,Mobile,2,Personalised offers
+S045,Monthly,Beauty,Instagram,Price,Bundle offer,2,High delivery fee,Mobile,5,Easy returns
+S046,Weekly,Fashion,Friends,Delivery speed,Free delivery,2,High delivery fee,Mobile,2,Easy returns
+S047,Every 2-3 months,Electronics,Email,Brand,Free delivery,4,High delivery fee,Mobile,5,Easy returns
+S048,Rarely,Fitness,Google Search,Product quality,Bundle offer,2,Just browsing,Desktop,4,Good product quality
+S049,Rarely,Fitness,Instagram,Delivery speed,Free delivery,2,High delivery fee,Tablet,5,Personalised offers
+S050,Weekly,Fashion,Instagram,Brand,Cashback,5,High price,Mobile,5,Easy returns
+S051,Rarely,Electronics,Google Search,Price,Cashback,2,Complicated checkout,Mobile,3,Good product quality
+S052,Monthly,Fashion,Google Search,Reviews,Percentage discount,5,Just browsing,Mobile,5,Fast delivery
+S053,Monthly,Beauty,Google Search,Price,None,5,High delivery fee,Mobile,3,Easy returns
+S054,Monthly,Home,Email,Brand,Percentage discount,5,Complicated checkout,Mobile,3,Loyalty rewards
+S055,Rarely,Beauty,Google Search,Reviews,Percentage discount,4,High delivery fee,Mobile,5,Fast delivery
+S056,Every 2-3 months,Electronics,Friends,Delivery speed,Percentage discount,5,High delivery fee,Desktop,4,Personalised offers
+S057,Rarely,Electronics,Instagram,Delivery speed,Free delivery,4,High delivery fee,Mobile,3,Easy returns
+S058,Monthly,Fitness,Google Search,Reviews,Bundle offer,5,High price,Mobile,5,Personalised offers
+S059,Rarely,Electronics,Google Search,Brand,Percentage discount,3,Just browsing,Desktop,5,Loyalty rewards
+S060,Weekly,Electronics,YouTube,Price,Percentage discount,3,High delivery fee,Desktop,3,Fast delivery
+S061,Weekly,Home,Google Search,Price,Cashback,5,High delivery fee,Desktop,4,Fast delivery
+S062,Rarely,Beauty,Friends,Price,Free delivery,3,High delivery fee,Mobile,5,Loyalty rewards
+S063,Monthly,Home,Email,Product quality,Percentage discount,2,High price,Desktop,4,Personalised offers
+S064,Every 2-3 months,Electronics,YouTube,Price,Cashback,4,High price,Mobile,5,Loyalty rewards
+S065,Rarely,Beauty,Google Search,Product quality,Percentage discount,4,High delivery fee,Desktop,4,Easy returns
+S066,Monthly,Home,YouTube,Reviews,Bundle offer,5,Just browsing,Mobile,4,Fast delivery
+S067,Every 2-3 months,Beauty,YouTube,Delivery speed,Free delivery,4,Payment concern,Mobile,3,Fast delivery
+S068,Weekly,Fashion,Google Search,Product quality,Percentage discount,5,Complicated checkout,Desktop,4,Loyalty rewards
+S069,Rarely,Fitness,Instagram,Brand,Percentage discount,3,High price,Desktop,3,Loyalty rewards
+S070,Monthly,Fashion,Instagram,Reviews,Percentage discount,3,High delivery fee,Desktop,5,Personalised offers
+S071,Rarely,Beauty,Instagram,Brand,None,4,Just browsing,Mobile,1,Easy returns
+S072,Rarely,Fashion,YouTube,Reviews,Cashback,4,High delivery fee,Mobile,4,Good product quality
+S073,Monthly,Fashion,Google Search,Reviews,None,4,High price,Mobile,3,Loyalty rewards
+S074,Rarely,Fashion,Google Search,Price,Percentage discount,2,High delivery fee,Mobile,3,Easy returns
+S075,Weekly,Fashion,Friends,Brand,Percentage discount,5,High delivery fee,Desktop,5,Easy returns
+S076,Monthly,Beauty,Instagram,Price,Free delivery,5,High delivery fee,Mobile,5,Fast delivery
+S077,Every 2-3 months,Fashion,Email,Delivery speed,Cashback,4,Payment concern,Desktop,4,Loyalty rewards
+S078,Monthly,Fashion,Friends,Delivery speed,Percentage discount,3,High delivery fee,Mobile,1,Easy returns
+S079,Monthly,Electronics,Instagram,Brand,Free delivery,3,Complicated checkout,Mobile,4,Personalised offers
+S080,Every 2-3 months,Fitness,YouTube,Delivery speed,Free delivery,3,High price,Mobile,5,Easy returns
+S081,Monthly,Fitness,Instagram,Reviews,Free delivery,4,Complicated checkout,Mobile,5,Fast delivery
+S082,Rarely,Electronics,Google Search,Reviews,Bundle offer,2,High price,Mobile,4,Personalised offers
+S083,Weekly,Home,Instagram,Reviews,Cashback,4,Just browsing,Mobile,5,Good product quality
+S084,Monthly,Fitness,Google Search,Delivery speed,Free delivery,4,High price,Mobile,5,Easy returns
+S085,Monthly,Home,Instagram,Reviews,None,1,High price,Desktop,5,Good product quality
+S086,Weekly,Fashion,Google Search,Price,Percentage discount,2,High price,Mobile,5,Personalised offers
+S087,Weekly,Beauty,Email,Reviews,Percentage discount,4,Just browsing,Mobile,4,Easy returns
+S088,Every 2-3 months,Beauty,Instagram,Product quality,Bundle offer,4,High price,Mobile,5,Good product quality
+S089,Rarely,Electronics,Friends,Product quality,Cashback,3,Just browsing,Mobile,5,Personalised offers
+S090,Every 2-3 months,Beauty,Instagram,Price,None,5,Payment concern,Desktop,4,Personalised offers
+S091,Weekly,Fashion,YouTube,Product quality,Cashback,5,Just browsing,Mobile,5,Fast delivery
+S092,Every 2-3 months,Fitness,YouTube,Product quality,Free delivery,5,High delivery fee,Mobile,4,Personalised offers
+S093,Weekly,Beauty,Instagram,Price,Free delivery,3,High price,Mobile,4,Good product quality
+S094,Every 2-3 months,Fitness,YouTube,Product quality,Percentage discount,3,Payment concern,Mobile,4,Personalised offers
+S095,Every 2-3 months,Fashion,YouTube,Price,None,5,High price,Mobile,3,Loyalty rewards
+S096,Rarely,Fashion,Instagram,Brand,Bundle offer,1,High delivery fee,Mobile,2,Fast delivery
+S097,Monthly,Home,Friends,Price,Free delivery,4,High price,Mobile,5,Easy returns
+S098,Every 2-3 months,Fitness,Friends,Price,Percentage discount,4,High delivery fee,Mobile,5,Easy returns
+S099,Weekly,Electronics,Instagram,Price,None,4,Complicated checkout,Mobile,5,Loyalty rewards
+S100,Every 2-3 months,Fashion,Google Search,Reviews,Free delivery,5,High price,Mobile,5,Personalised offers
+S101,Monthly,Fashion,Instagram,Product quality,Free delivery,4,Complicated checkout,Mobile,5,Easy returns
+S102,Rarely,Electronics,Google Search,Reviews,Free delivery,3,High price,Desktop,4,Loyalty rewards
+S103,Every 2-3 months,Home,Instagram,Delivery speed,Percentage discount,3,Just browsing,Mobile,4,Loyalty rewards
+S104,Monthly,Home,Email,Brand,Percentage discount,1,High price,Mobile,4,Fast delivery
+S105,Monthly,Fashion,Google Search,Brand,Percentage discount,4,High delivery fee,Desktop,3,Loyalty rewards
+S106,Weekly,Home,Friends,Delivery speed,Percentage discount,5,High price,Mobile,4,Easy returns
+S107,Monthly,Electronics,Instagram,Reviews,Bundle offer,3,Just browsing,Mobile,4,Personalised offers
+S108,Rarely,Electronics,Instagram,Product quality,None,3,High delivery fee,Tablet,5,Loyalty rewards
+S109,Monthly,Electronics,YouTube,Product quality,Free delivery,3,High delivery fee,Mobile,4,Loyalty rewards
+S110,Rarely,Beauty,Google Search,Delivery speed,Percentage discount,4,Payment concern,Mobile,5,Easy returns
+S111,Rarely,Fashion,Instagram,Delivery speed,Free delivery,4,Payment concern,Mobile,3,Personalised offers
+S112,Every 2-3 months,Fitness,Google Search,Price,Bundle offer,3,Complicated checkout,Mobile,5,Loyalty rewards
+S113,Every 2-3 months,Electronics,YouTube,Reviews,Percentage discount,3,High price,Mobile,5,Good product quality
+S114,Every 2-3 months,Fashion,Friends,Price,Cashback,5,Just browsing,Mobile,4,Personalised offers
+S115,Every 2-3 months,Home,Instagram,Product quality,Cashback,4,High price,Mobile,5,Good product quality
+S116,Weekly,Home,Google Search,Product quality,Bundle offer,4,Payment concern,Mobile,3,Loyalty rewards
+S117,Weekly,Beauty,Friends,Brand,Percentage discount,4,Complicated checkout,Mobile,5,Good product quality
+S118,Rarely,Beauty,Instagram,Product quality,Percentage discount,3,High price,Mobile,4,Easy returns
+S119,Monthly,Fashion,Google Search,Price,Free delivery,5,High price,Mobile,3,Personalised offers
+S120,Monthly,Beauty,Email,Brand,Free delivery,5,High price,Mobile,4,Good product quality

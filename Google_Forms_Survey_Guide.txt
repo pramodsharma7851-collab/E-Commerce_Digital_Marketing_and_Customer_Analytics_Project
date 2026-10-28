@@ -1,0 +1,18 @@
+GOOGLE FORMS SURVEY SETUP
+Form title: Online Shopping Behaviour & Digital Marketing Preferences
+Form description: This short anonymous survey is for an academic/portfolio project. Do not collect names, phone numbers, email addresses, or sensitive information. Participation is voluntary.
+
+Create these questions (mark required unless stated otherwise):
+1. How often do you shop online? (Weekly / Monthly / Every 2-3 months / Rarely)
+2. Which product category do you buy most often? (Fashion / Beauty / Home / Electronics / Fitness)
+3. Where do you usually discover new online stores? (Instagram / Google Search / YouTube / Email / Friends)
+4. What most influences your purchase decision? (Price / Reviews / Delivery speed / Brand / Product quality)
+5. Which promotion is most likely to make you purchase? (Percentage discount / Free delivery / Bundle offer / Cashback / None)
+6. How likely are you to purchase after seeing a social media ad? (Linear scale 1-5)
+7. What makes you abandon an online cart? (High delivery fee / High price / Complicated checkout / Payment concern / Just browsing)
+8. Preferred device for online shopping? (Mobile / Desktop / Tablet)
+9. How important are customer reviews? (Linear scale 1-5)
+10. What would make you shop again? (Good product quality / Fast delivery / Loyalty rewards / Easy returns / Personalised offers)
+
+Target: 50-100 respondents. Export responses as CSV and replace the synthetic demo survey file.
+Ethics: State the purpose, keep it anonymous, and use responses only for this project.
